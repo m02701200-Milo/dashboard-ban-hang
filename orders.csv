@@ -1,0 +1,601 @@
+﻿ma_don_hang,ngay_dat,ma_hang,ten_san_pham,danh_muc,khach_hang,tinh_thanh,so_luong,don_gia,thanh_tien,phuong_thuc_tt,trang_thai_don
+DH0001,2024-08-26,TB004,Samsung Galaxy Tab A9+,Tablet,Mai Thị Trang,Hà Nội,3,8202224,24606672,Chuyển khoản,Hoàn thành
+DH0002,2024-11-18,DT004,Samsung Galaxy A55 5G,Điện thoại,Lưu Thị Vân,Hồ Chí Minh,3,9505936,28517808,Chuyển khoản,Đã hủy
+DH0003,2024-09-19,LO003,Bose SoundLink Max,Loa,Phan Minh Xuân,Cần Thơ,2,9358515,18717030,VNPay,Hoàn thành
+DH0004,2024-08-27,PK005,Pin dự phòng Anker 20000mAh,Phụ kiện,Vũ Thị Phương,Hà Nội,3,1251663,3754989,Tiền mặt,Đang xử lý
+DH0005,2024-09-15,DT007,OPPO Reno 11 Pro 5G,Điện thoại,Trần Thị Bích,Long An,2,12024550,24049100,Ví MoMo,Hoàn thành
+DH0006,2024-01-19,DT009,Google Pixel 8 Pro,Điện thoại,Ngô Thị Lan,Đồng Nai,2,27134439,54268878,Thẻ tín dụng,Hoàn thành
+DH0007,2024-05-07,LO004,Marshall Emberton III,Loa,Phạm Thị Dung,Long An,1,3185952,3185952,VNPay,Hoàn thành
+DH0008,2024-12-10,TB005,Xiaomi Pad 6 Pro,Tablet,Ngô Thị Lan,Bình Dương,3,10979921,32939763,Thẻ tín dụng,Hoàn thành
+DH0009,2024-05-31,LO004,Marshall Emberton III,Loa,Bùi Thị Hoa,Hải Phòng,2,3189744,6379488,VNPay,Hoàn thành
+DH0010,2024-10-09,TN010,Edifier W820NB Plus,Tai nghe,Nguyễn Văn An,Long An,2,1897191,3794382,Tiền mặt,Đang xử lý
+DH0011,2024-05-11,DH003,Garmin Venu 3,Đồng hồ thông minh,Phạm Thị Dung,Bình Dương,2,10971769,21943538,VNPay,Đang xử lý
+DH0012,2024-02-16,TN011,Sony WF-1000XM5 TWS,Tai nghe,Nguyễn Văn An,Long An,1,6885344,6885344,VNPay,Đã hủy
+DH0013,2024-06-28,TN002,Apple AirPods Pro 2nd Gen,Tai nghe,Đặng Minh Quân,Long An,3,6183103,18549309,Thẻ tín dụng,Đang xử lý
+DH0014,2024-02-10,TN012,Nothing Ear (2),Tai nghe,Hà Thị Quỳnh,Bình Dương,2,2961828,5923656,Chuyển khoản,Hoàn thành
+DH0015,2024-11-17,DH004,Xiaomi Watch S3,Đồng hồ thông minh,Lê Minh Châu,Hải Phòng,3,2857343,8572029,Ví MoMo,Hoàn thành
+DH0016,2024-08-30,TN012,Nothing Ear (2),Tai nghe,Tô Văn Uy,Hồ Chí Minh,2,2722926,5445852,Chuyển khoản,Hoàn thành
+DH0017,2024-07-10,TN001,Sony WH-1000XM5 Wireless,Tai nghe,Đỗ Văn Khoa,Đồng Nai,3,8265165,24795495,Tiền mặt,Hoàn thành
+DH0018,2024-10-22,TN010,Edifier W820NB Plus,Tai nghe,Trịnh Văn Mạnh,Hà Nội,2,1840771,3681542,VNPay,Hoàn thành
+DH0019,2024-02-26,PK007,Hub USB-C 7-in-1 Ugreen,Phụ kiện,Nguyễn Văn An,Hồ Chí Minh,1,809955,809955,Chuyển khoản,Hoàn thành
+DH0020,2024-02-06,LO009,Edifier R1280T Active,Loa,Mai Thị Trang,Đồng Nai,1,2105042,2105042,Chuyển khoản,Đang xử lý
+DH0021,2024-05-03,PK006,Giá đỡ điện thoại Ugreen,Phụ kiện,Kiều Thị Yến,Bình Dương,1,286578,286578,Ví MoMo,Hoàn thành
+DH0022,2024-07-23,DH004,Xiaomi Watch S3,Đồng hồ thông minh,Lý Thị Ngọc,Hải Phòng,1,2858447,2858447,Tiền mặt,Hoàn thành
+DH0023,2024-09-01,DH005,Fitbit Charge 6,Đồng hồ thông minh,Nguyễn Văn An,Hải Phòng,2,3177048,6354096,Chuyển khoản,Hoàn thành
+DH0024,2024-04-18,TB001,iPad Pro M4 11 inch 256GB,Tablet,Bùi Thị Hoa,Hải Phòng,2,27775420,55550840,Tiền mặt,Đã hủy
+DH0025,2024-04-02,DH001,Apple Watch Series 9 GPS 41mm,Đồng hồ thông minh,Tô Văn Uy,Bình Dương,3,10380163,31140489,Thẻ tín dụng,Hoàn thành
+DH0026,2024-05-15,LO008,Xiaomi Smart Speaker,Loa,Trần Thị Bích,Hà Nội,3,900998,2702994,Thẻ tín dụng,Đang xử lý
+DH0027,2024-11-17,LO003,Bose SoundLink Max,Loa,Phan Minh Xuân,Đồng Nai,3,8939357,26818071,Chuyển khoản,Hoàn thành
+DH0028,2024-03-19,DT001,iPhone 15 Pro Max 256GB,Điện thoại,Mai Thị Trang,Bình Dương,2,34160506,68321012,Thẻ tín dụng,Hoàn thành
+DH0029,2024-10-03,DH003,Garmin Venu 3,Đồng hồ thông minh,Mai Thị Trang,Đà Nẵng,2,11719803,23439606,Tiền mặt,Hoàn thành
+DH0030,2024-07-20,DT010,OnePlus 12 5G,Điện thoại,Nguyễn Văn An,Hà Nội,2,18548586,37097172,Ví MoMo,Hoàn thành
+DH0031,2024-09-13,TN011,Sony WF-1000XM5 TWS,Tai nghe,Mai Thị Trang,Đồng Nai,3,6924697,20774091,Thẻ tín dụng,Đã hủy
+DH0032,2024-11-28,PK007,Hub USB-C 7-in-1 Ugreen,Phụ kiện,Đinh Văn Phúc,Đồng Nai,1,821896,821896,Ví MoMo,Hoàn thành
+DH0033,2024-01-03,TN007,Jabra Evolve2 75,Tai nghe,Cao Minh Sơn,Cần Thơ,3,12015612,36046836,Tiền mặt,Hoàn thành
+DH0034,2024-03-18,LO009,Edifier R1280T Active,Loa,Kiều Thị Yến,Long An,2,2079514,4159028,Thẻ tín dụng,Hoàn thành
+DH0035,2024-12-02,DT008,Vivo V30 Pro,Điện thoại,Đinh Văn Phúc,Đà Nẵng,3,11131158,33393474,Chuyển khoản,Hoàn thành
+DH0036,2024-01-03,DT001,iPhone 15 Pro Max 256GB,Điện thoại,Hoàng Văn Em,Hà Nội,1,32429425,32429425,Thẻ tín dụng,Đã hủy
+DH0037,2024-04-04,DT010,OnePlus 12 5G,Điện thoại,Ngô Thị Lan,Hà Nội,3,18305832,54917496,Chuyển khoản,Đã hủy
+DH0038,2024-01-21,DT007,OPPO Reno 11 Pro 5G,Điện thoại,Đinh Văn Phúc,Cần Thơ,3,11953371,35860113,Thẻ tín dụng,Hoàn thành
+DH0039,2024-11-30,TN006,Sennheiser Momentum 4,Tai nghe,Đỗ Văn Khoa,Hải Phòng,1,9886240,9886240,Chuyển khoản,Đang xử lý
+DH0040,2024-09-25,TB002,iPad Air M2 128GB,Tablet,Đỗ Văn Khoa,Hà Nội,1,15737277,15737277,Ví MoMo,Đã hủy
+DH0041,2024-03-12,TB005,Xiaomi Pad 6 Pro,Tablet,Trần Thị Bích,Cần Thơ,2,10635030,21270060,Chuyển khoản,Hoàn thành
+DH0042,2024-09-09,TN012,Nothing Ear (2),Tai nghe,Hà Thị Quỳnh,Cần Thơ,1,2850647,2850647,Thẻ tín dụng,Đã hủy
+DH0043,2024-01-27,LO009,Edifier R1280T Active,Loa,Vũ Thị Phương,Đà Nẵng,1,1978479,1978479,Chuyển khoản,Hoàn thành
+DH0044,2024-07-13,TN012,Nothing Ear (2),Tai nghe,Kiều Thị Yến,Hải Phòng,3,2878077,8634231,Ví MoMo,Hoàn thành
+DH0045,2024-08-16,PK005,Pin dự phòng Anker 20000mAh,Phụ kiện,Mai Thị Trang,Cần Thơ,2,1233686,2467372,Chuyển khoản,Đang xử lý
+DH0046,2024-02-28,DT006,Xiaomi Redmi Note 13 Pro,Điện thoại,Tô Văn Uy,Hồ Chí Minh,1,6792931,6792931,Tiền mặt,Đã hủy
+DH0047,2024-10-04,LO003,Bose SoundLink Max,Loa,Đỗ Văn Khoa,Đà Nẵng,1,9399164,9399164,Chuyển khoản,Hoàn thành
+DH0048,2024-11-24,LO005,Harman Kardon Onyx Studio 8,Loa,Phạm Thị Dung,Đà Nẵng,2,8905747,17811494,VNPay,Hoàn thành
+DH0049,2024-04-11,DH004,Xiaomi Watch S3,Đồng hồ thông minh,Bùi Thị Hoa,Hồ Chí Minh,3,2930839,8792517,Tiền mặt,Đã hủy
+DH0050,2024-07-31,TN011,Sony WF-1000XM5 TWS,Tai nghe,Kiều Thị Yến,Bình Dương,3,6407468,19222404,Tiền mặt,Hoàn thành
+DH0051,2024-09-30,LO006,JBL Flip 6,Loa,Trần Thị Bích,Bình Dương,1,2425160,2425160,Thẻ tín dụng,Đang xử lý
+DH0052,2024-08-24,TN006,Sennheiser Momentum 4,Tai nghe,Mai Thị Trang,Long An,1,9414558,9414558,Tiền mặt,Hoàn thành
+DH0053,2024-08-17,DH002,Samsung Galaxy Watch 6 Classic,Đồng hồ thông minh,Đặng Minh Quân,Hà Nội,2,9380644,18761288,Tiền mặt,Đã hủy
+DH0054,2024-09-20,DT009,Google Pixel 8 Pro,Điện thoại,Lưu Thị Vân,Bình Dương,3,27154198,81462594,VNPay,Đã hủy
+DH0055,2024-01-06,TN012,Nothing Ear (2),Tai nghe,Cao Minh Sơn,Hà Nội,3,2861092,8583276,Chuyển khoản,Đã hủy
+DH0056,2024-08-19,LO009,Edifier R1280T Active,Loa,Trịnh Văn Mạnh,Cần Thơ,2,2025343,4050686,VNPay,Hoàn thành
+DH0057,2024-07-18,LO003,Bose SoundLink Max,Loa,Ngô Thị Lan,Bình Dương,2,8992049,17984098,Tiền mặt,Đang xử lý
+DH0058,2024-02-21,TN002,Apple AirPods Pro 2nd Gen,Tai nghe,Phan Minh Xuân,Bình Dương,3,6397819,19193457,Chuyển khoản,Hoàn thành
+DH0059,2024-08-29,LO001,JBL Charge 5 Bluetooth,Loa,Hoàng Văn Em,Hà Nội,2,3863022,7726044,Chuyển khoản,Hoàn thành
+DH0060,2024-05-02,LO006,JBL Flip 6,Loa,Hà Thị Quỳnh,Long An,1,2279598,2279598,VNPay,Đã hủy
+DH0061,2024-08-10,PK007,Hub USB-C 7-in-1 Ugreen,Phụ kiện,Mai Thị Trang,Hải Phòng,2,842627,1685254,Tiền mặt,Đã hủy
+DH0062,2024-12-12,DT007,OPPO Reno 11 Pro 5G,Điện thoại,Mai Thị Trang,Hồ Chí Minh,3,11952147,35856441,VNPay,Hoàn thành
+DH0063,2024-10-27,TB006,Lenovo Tab P12 Pro,Tablet,Nguyễn Văn An,Bình Dương,2,13169422,26338844,Tiền mặt,Đã hủy
+DH0064,2024-03-13,LO006,JBL Flip 6,Loa,Đỗ Văn Khoa,Hà Nội,3,2305001,6915003,Chuyển khoản,Hoàn thành
+DH0065,2024-09-14,TB004,Samsung Galaxy Tab A9+,Tablet,Bùi Thị Hoa,Bình Dương,3,7924149,23772447,Tiền mặt,Đã hủy
+DH0066,2024-02-18,PK002,Cáp USB-C Belkin 2m,Phụ kiện,Lê Minh Châu,Cần Thơ,1,451916,451916,Tiền mặt,Hoàn thành
+DH0067,2024-11-10,PK003,Ốp lưng Spigen iPhone 15 Pro,Phụ kiện,Nguyễn Văn An,Đồng Nai,1,372980,372980,Tiền mặt,Đã hủy
+DH0068,2024-06-18,DT004,Samsung Galaxy A55 5G,Điện thoại,Trần Thị Bích,Hải Phòng,2,9836488,19672976,VNPay,Hoàn thành
+DH0069,2024-11-29,PK008,Bao da iPad Pro ESR,Phụ kiện,Đinh Văn Phúc,Cần Thơ,1,544103,544103,Thẻ tín dụng,Hoàn thành
+DH0070,2024-05-19,DT003,Samsung Galaxy S24 Ultra,Điện thoại,Lý Thị Ngọc,Hà Nội,3,31625865,94877595,Thẻ tín dụng,Hoàn thành
+DH0071,2024-06-28,LO010,Bose TV Speaker,Loa,Bùi Thị Hoa,Đà Nẵng,2,5474655,10949310,Ví MoMo,Đang xử lý
+DH0072,2024-08-25,TB002,iPad Air M2 128GB,Tablet,Bùi Thị Hoa,Hải Phòng,1,15485311,15485311,Thẻ tín dụng,Đã hủy
+DH0073,2024-07-13,PK008,Bao da iPad Pro ESR,Phụ kiện,Phạm Thị Dung,Đà Nẵng,1,575474,575474,Tiền mặt,Đang xử lý
+DH0074,2024-05-19,PK002,Cáp USB-C Belkin 2m,Phụ kiện,Kiều Thị Yến,Đà Nẵng,1,452212,452212,Tiền mặt,Hoàn thành
+DH0075,2024-02-11,DH005,Fitbit Charge 6,Đồng hồ thông minh,Ngô Thị Lan,Bình Dương,2,3439696,6879392,VNPay,Đã hủy
+DH0076,2024-11-21,LO002,Sony SRS-XB100,Loa,Đặng Minh Quân,Hà Nội,1,1179265,1179265,VNPay,Hoàn thành
+DH0077,2024-04-22,DT007,OPPO Reno 11 Pro 5G,Điện thoại,Phạm Thị Dung,Bình Dương,3,12822569,38467707,Chuyển khoản,Đang xử lý
+DH0078,2024-01-28,LO009,Edifier R1280T Active,Loa,Hoàng Văn Em,Hà Nội,2,2079750,4159500,Tiền mặt,Đang xử lý
+DH0079,2024-10-27,TB005,Xiaomi Pad 6 Pro,Tablet,Ngô Thị Lan,Long An,1,10730589,10730589,Chuyển khoản,Hoàn thành
+DH0080,2024-11-24,PK002,Cáp USB-C Belkin 2m,Phụ kiện,Nguyễn Văn An,Đồng Nai,1,462475,462475,Tiền mặt,Đang xử lý
+DH0081,2024-12-10,DT005,Xiaomi 14 Pro,Điện thoại,Phan Minh Xuân,Long An,2,18673130,37346260,VNPay,Hoàn thành
+DH0082,2024-09-19,PK005,Pin dự phòng Anker 20000mAh,Phụ kiện,Đặng Minh Quân,Long An,3,1279018,3837054,VNPay,Đã hủy
+DH0083,2024-10-31,TB005,Xiaomi Pad 6 Pro,Tablet,Mai Thị Trang,Bình Dương,3,10268495,30805485,Chuyển khoản,Đã hủy
+DH0084,2024-01-06,TN002,Apple AirPods Pro 2nd Gen,Tai nghe,Ngô Thị Lan,Hải Phòng,2,6119152,12238304,VNPay,Hoàn thành
+DH0085,2024-10-14,TB003,Samsung Galaxy Tab S9+,Tablet,Tô Văn Uy,Long An,1,21636387,21636387,Tiền mặt,Hoàn thành
+DH0086,2024-10-01,DH001,Apple Watch Series 9 GPS 41mm,Đồng hồ thông minh,Hoàng Văn Em,Đồng Nai,3,10630203,31890609,Thẻ tín dụng,Hoàn thành
+DH0087,2024-03-19,DH003,Garmin Venu 3,Đồng hồ thông minh,Bùi Thị Hoa,Đồng Nai,2,11424120,22848240,Tiền mặt,Đang xử lý
+DH0088,2024-02-13,LO010,Bose TV Speaker,Loa,Bùi Thị Hoa,Hà Nội,1,5898339,5898339,Thẻ tín dụng,Hoàn thành
+DH0089,2024-03-11,DH003,Garmin Venu 3,Đồng hồ thông minh,Kiều Thị Yến,Cần Thơ,3,11657162,34971486,Ví MoMo,Hoàn thành
+DH0090,2024-07-11,DH004,Xiaomi Watch S3,Đồng hồ thông minh,Phạm Thị Dung,Bình Dương,3,2692736,8078208,Ví MoMo,Hoàn thành
+DH0091,2024-12-30,TB003,Samsung Galaxy Tab S9+,Tablet,Đinh Văn Phúc,Cần Thơ,1,21979557,21979557,Thẻ tín dụng,Đang xử lý
+DH0092,2024-04-08,LO009,Edifier R1280T Active,Loa,Đinh Văn Phúc,Đồng Nai,3,2124563,6373689,Ví MoMo,Hoàn thành
+DH0093,2024-08-15,TN006,Sennheiser Momentum 4,Tai nghe,Phạm Thị Dung,Hải Phòng,3,9316847,27950541,VNPay,Hoàn thành
+DH0094,2024-03-16,PK005,Pin dự phòng Anker 20000mAh,Phụ kiện,Phan Minh Xuân,Đà Nẵng,2,1187712,2375424,VNPay,Đang xử lý
+DH0095,2024-08-27,DT008,Vivo V30 Pro,Điện thoại,Lê Minh Châu,Đà Nẵng,1,11179806,11179806,Tiền mặt,Hoàn thành
+DH0096,2024-11-01,PK001,Sạc nhanh Anker 65W GaN,Phụ kiện,Phạm Thị Dung,Hà Nội,1,801438,801438,Tiền mặt,Hoàn thành
+DH0097,2024-04-09,TN004,Samsung Galaxy Buds2 Pro,Tai nghe,Đỗ Văn Khoa,Đà Nẵng,3,4458112,13374336,Chuyển khoản,Đang xử lý
+DH0098,2024-04-16,TN008,Audio-Technica ATH-M50x,Tai nghe,Vũ Thị Phương,Bình Dương,1,3894389,3894389,Thẻ tín dụng,Đã hủy
+DH0099,2024-10-09,TB006,Lenovo Tab P12 Pro,Tablet,Lưu Thị Vân,Đồng Nai,3,13947869,41843607,VNPay,Hoàn thành
+DH0100,2024-04-01,TN005,JBL Tune 770NC,Tai nghe,Tô Văn Uy,Cần Thơ,3,2243563,6730689,Chuyển khoản,Hoàn thành
+DH0101,2024-01-30,TB002,iPad Air M2 128GB,Tablet,Bùi Thị Hoa,Hải Phòng,2,16388759,32777518,Tiền mặt,Hoàn thành
+DH0102,2024-07-23,TN012,Nothing Ear (2),Tai nghe,Đỗ Văn Khoa,Hải Phòng,3,2786776,8360328,VNPay,Hoàn thành
+DH0103,2024-03-22,TN012,Nothing Ear (2),Tai nghe,Đinh Văn Phúc,Đà Nẵng,2,2942282,5884564,Ví MoMo,Đang xử lý
+DH0104,2024-03-30,TN012,Nothing Ear (2),Tai nghe,Phan Minh Xuân,Hà Nội,1,2869764,2869764,VNPay,Hoàn thành
+DH0105,2024-03-23,DH003,Garmin Venu 3,Đồng hồ thông minh,Đỗ Văn Khoa,Cần Thơ,2,11388782,22777564,Tiền mặt,Đã hủy
+DH0106,2024-04-15,DT006,Xiaomi Redmi Note 13 Pro,Điện thoại,Tô Văn Uy,Bình Dương,2,6804627,13609254,VNPay,Đã hủy
+DH0107,2024-11-19,DT008,Vivo V30 Pro,Điện thoại,Hoàng Văn Em,Hồ Chí Minh,1,10904499,10904499,VNPay,Đang xử lý
+DH0108,2024-01-05,DT005,Xiaomi 14 Pro,Điện thoại,Bùi Thị Hoa,Đồng Nai,2,18685338,37370676,Tiền mặt,Đang xử lý
+DH0109,2024-09-28,TB006,Lenovo Tab P12 Pro,Tablet,Bùi Thị Hoa,Cần Thơ,1,13098251,13098251,Tiền mặt,Hoàn thành
+DH0110,2024-11-03,TN005,JBL Tune 770NC,Tai nghe,Kiều Thị Yến,Bình Dương,2,2099648,4199296,Thẻ tín dụng,Hoàn thành
+DH0111,2024-06-15,TN010,Edifier W820NB Plus,Tai nghe,Kiều Thị Yến,Bình Dương,1,1947735,1947735,VNPay,Hoàn thành
+DH0112,2024-11-01,TB006,Lenovo Tab P12 Pro,Tablet,Ngô Thị Lan,Hà Nội,1,13264836,13264836,Chuyển khoản,Hoàn thành
+DH0113,2024-01-25,TN005,JBL Tune 770NC,Tai nghe,Trịnh Văn Mạnh,Bình Dương,3,2197207,6591621,VNPay,Đang xử lý
+DH0114,2024-04-05,TN011,Sony WF-1000XM5 TWS,Tai nghe,Ngô Thị Lan,Bình Dương,3,6968696,20906088,Tiền mặt,Hoàn thành
+DH0115,2024-03-06,DH003,Garmin Venu 3,Đồng hồ thông minh,Đỗ Văn Khoa,Bình Dương,1,11277468,11277468,Thẻ tín dụng,Đã hủy
+DH0116,2024-03-17,TB004,Samsung Galaxy Tab A9+,Tablet,Vũ Thị Phương,Cần Thơ,3,7952595,23857785,Ví MoMo,Đang xử lý
+DH0117,2024-11-09,DT001,iPhone 15 Pro Max 256GB,Điện thoại,Cao Minh Sơn,Hà Nội,1,33159334,33159334,VNPay,Đã hủy
+DH0118,2024-06-28,LO005,Harman Kardon Onyx Studio 8,Loa,Mai Thị Trang,Long An,2,8866397,17732794,Tiền mặt,Đã hủy
+DH0119,2024-11-22,TN003,Bose QuietComfort 45,Tai nghe,Phan Minh Xuân,Hà Nội,1,7652781,7652781,Thẻ tín dụng,Đang xử lý
+DH0120,2024-05-07,LO001,JBL Charge 5 Bluetooth,Loa,Hoàng Văn Em,Cần Thơ,3,3746306,11238918,Thẻ tín dụng,Hoàn thành
+DH0121,2024-06-14,TN002,Apple AirPods Pro 2nd Gen,Tai nghe,Đặng Minh Quân,Đồng Nai,2,6420208,12840416,Ví MoMo,Hoàn thành
+DH0122,2024-04-17,DT009,Google Pixel 8 Pro,Điện thoại,Đỗ Văn Khoa,Đà Nẵng,2,25756803,51513606,Thẻ tín dụng,Hoàn thành
+DH0123,2024-07-21,TN002,Apple AirPods Pro 2nd Gen,Tai nghe,Lưu Thị Vân,Đà Nẵng,1,6366761,6366761,Tiền mặt,Hoàn thành
+DH0124,2024-04-09,DT009,Google Pixel 8 Pro,Điện thoại,Đỗ Văn Khoa,Hồ Chí Minh,3,26809304,80427912,Ví MoMo,Hoàn thành
+DH0125,2024-12-14,DT007,OPPO Reno 11 Pro 5G,Điện thoại,Hoàng Văn Em,Bình Dương,2,11991491,23982982,Chuyển khoản,Đang xử lý
+DH0126,2024-08-07,PK003,Ốp lưng Spigen iPhone 15 Pro,Phụ kiện,Mai Thị Trang,Hà Nội,3,359637,1078911,Chuyển khoản,Hoàn thành
+DH0127,2024-08-17,LO007,Sonos Era 100,Loa,Cao Minh Sơn,Hải Phòng,1,7860351,7860351,Ví MoMo,Hoàn thành
+DH0128,2024-09-23,DT009,Google Pixel 8 Pro,Điện thoại,Bùi Thị Hoa,Hồ Chí Minh,1,27123763,27123763,Chuyển khoản,Hoàn thành
+DH0129,2024-10-15,PK004,Kính cường lực Baseus iPhone 15,Phụ kiện,Lê Minh Châu,Đồng Nai,1,270677,270677,Chuyển khoản,Đã hủy
+DH0130,2024-01-24,TB001,iPad Pro M4 11 inch 256GB,Tablet,Lưu Thị Vân,Đồng Nai,3,26309386,78928158,Tiền mặt,Hoàn thành
+DH0131,2024-06-10,PK005,Pin dự phòng Anker 20000mAh,Phụ kiện,Đinh Văn Phúc,Hà Nội,3,1175327,3525981,Tiền mặt,Đang xử lý
+DH0132,2024-06-08,DT007,OPPO Reno 11 Pro 5G,Điện thoại,Lê Minh Châu,Hải Phòng,3,12932914,38798742,Tiền mặt,Hoàn thành
+DH0133,2024-04-02,PK007,Hub USB-C 7-in-1 Ugreen,Phụ kiện,Vũ Thị Phương,Đà Nẵng,3,874126,2622378,VNPay,Hoàn thành
+DH0134,2024-04-08,PK005,Pin dự phòng Anker 20000mAh,Phụ kiện,Hoàng Văn Em,Đà Nẵng,2,1222846,2445692,Ví MoMo,Hoàn thành
+DH0135,2024-12-06,TB002,iPad Air M2 128GB,Tablet,Bùi Thị Hoa,Bình Dương,2,15391294,30782588,Thẻ tín dụng,Hoàn thành
+DH0136,2024-01-12,LO003,Bose SoundLink Max,Loa,Phạm Thị Dung,Cần Thơ,1,9106038,9106038,VNPay,Hoàn thành
+DH0137,2024-08-23,TN002,Apple AirPods Pro 2nd Gen,Tai nghe,Hà Thị Quỳnh,Long An,3,5929822,17789466,Ví MoMo,Hoàn thành
+DH0138,2024-11-11,DH003,Garmin Venu 3,Đồng hồ thông minh,Lý Thị Ngọc,Long An,2,11941347,23882694,Chuyển khoản,Hoàn thành
+DH0139,2024-11-02,DT004,Samsung Galaxy A55 5G,Điện thoại,Kiều Thị Yến,Hà Nội,2,9655207,19310414,Thẻ tín dụng,Đã hủy
+DH0140,2024-11-28,PK004,Kính cường lực Baseus iPhone 15,Phụ kiện,Đinh Văn Phúc,Hải Phòng,2,261864,523728,Tiền mặt,Hoàn thành
+DH0141,2024-04-10,LO009,Edifier R1280T Active,Loa,Kiều Thị Yến,Hồ Chí Minh,2,2163480,4326960,Thẻ tín dụng,Hoàn thành
+DH0142,2024-05-29,PK001,Sạc nhanh Anker 65W GaN,Phụ kiện,Ngô Thị Lan,Cần Thơ,2,862963,1725926,Ví MoMo,Hoàn thành
+DH0143,2024-07-04,DT005,Xiaomi 14 Pro,Điện thoại,Đỗ Văn Khoa,Long An,2,18642773,37285546,Tiền mặt,Đang xử lý
+DH0144,2024-07-07,DH005,Fitbit Charge 6,Đồng hồ thông minh,Bùi Thị Hoa,Đà Nẵng,2,3232661,6465322,Tiền mặt,Hoàn thành
+DH0145,2024-09-15,LO010,Bose TV Speaker,Loa,Tô Văn Uy,Long An,3,5508095,16524285,Ví MoMo,Hoàn thành
+DH0146,2024-02-22,DH001,Apple Watch Series 9 GPS 41mm,Đồng hồ thông minh,Hoàng Văn Em,Cần Thơ,2,10969784,21939568,Ví MoMo,Đang xử lý
+DH0147,2024-03-19,DH002,Samsung Galaxy Watch 6 Classic,Đồng hồ thông minh,Ngô Thị Lan,Cần Thơ,2,8665073,17330146,Tiền mặt,Hoàn thành
+DH0148,2024-12-29,TN012,Nothing Ear (2),Tai nghe,Phan Minh Xuân,Hà Nội,2,2863195,5726390,Chuyển khoản,Đã hủy
+DH0149,2024-07-29,DT008,Vivo V30 Pro,Điện thoại,Lưu Thị Vân,Cần Thơ,3,10575499,31726497,Tiền mặt,Đã hủy
+DH0150,2024-01-27,TN003,Bose QuietComfort 45,Tai nghe,Bùi Thị Hoa,Đà Nẵng,1,7406847,7406847,VNPay,Đã hủy
+DH0151,2024-11-23,DT005,Xiaomi 14 Pro,Điện thoại,Trần Thị Bích,Hà Nội,3,17932741,53798223,Ví MoMo,Hoàn thành
+DH0152,2024-06-29,LO009,Edifier R1280T Active,Loa,Trần Thị Bích,Bình Dương,3,2152896,6458688,Thẻ tín dụng,Hoàn thành
+DH0153,2024-04-08,LO006,JBL Flip 6,Loa,Đặng Minh Quân,Bình Dương,1,2476896,2476896,Thẻ tín dụng,Hoàn thành
+DH0154,2024-04-13,DT006,Xiaomi Redmi Note 13 Pro,Điện thoại,Lê Minh Châu,Cần Thơ,3,7111973,21335919,Tiền mặt,Đã hủy
+DH0155,2024-04-22,TN008,Audio-Technica ATH-M50x,Tai nghe,Trần Thị Bích,Hồ Chí Minh,1,3659594,3659594,VNPay,Đang xử lý
+DH0156,2024-11-22,TB005,Xiaomi Pad 6 Pro,Tablet,Tô Văn Uy,Hải Phòng,1,10464729,10464729,Tiền mặt,Hoàn thành
+DH0157,2024-08-05,TN011,Sony WF-1000XM5 TWS,Tai nghe,Phan Minh Xuân,Đồng Nai,2,6310546,12621092,Chuyển khoản,Hoàn thành
+DH0158,2024-10-03,LO001,JBL Charge 5 Bluetooth,Loa,Bùi Thị Hoa,Hải Phòng,3,3605516,10816548,Ví MoMo,Hoàn thành
+DH0159,2024-04-23,PK007,Hub USB-C 7-in-1 Ugreen,Phụ kiện,Nguyễn Văn An,Hà Nội,2,857951,1715902,Tiền mặt,Đã hủy
+DH0160,2024-01-18,TN001,Sony WH-1000XM5 Wireless,Tai nghe,Trịnh Văn Mạnh,Long An,2,7646665,15293330,Chuyển khoản,Hoàn thành
+DH0161,2024-04-05,DT002,iPhone 15 128GB,Điện thoại,Phạm Thị Dung,Đà Nẵng,3,22608383,67825149,Tiền mặt,Hoàn thành
+DH0162,2024-12-19,PK002,Cáp USB-C Belkin 2m,Phụ kiện,Hoàng Văn Em,Hà Nội,2,483575,967150,Ví MoMo,Hoàn thành
+DH0163,2024-07-23,TB005,Xiaomi Pad 6 Pro,Tablet,Hà Thị Quỳnh,Hải Phòng,1,10745039,10745039,Ví MoMo,Đã hủy
+DH0164,2024-07-14,DH001,Apple Watch Series 9 GPS 41mm,Đồng hồ thông minh,Tô Văn Uy,Đà Nẵng,1,10533735,10533735,Chuyển khoản,Hoàn thành
+DH0165,2024-02-19,TN010,Edifier W820NB Plus,Tai nghe,Phạm Thị Dung,Đà Nẵng,2,1962786,3925572,Ví MoMo,Hoàn thành
+DH0166,2024-04-25,TN006,Sennheiser Momentum 4,Tai nghe,Ngô Thị Lan,Hải Phòng,3,9635736,28907208,Thẻ tín dụng,Hoàn thành
+DH0167,2024-09-16,DH001,Apple Watch Series 9 GPS 41mm,Đồng hồ thông minh,Lê Minh Châu,Đà Nẵng,3,10571048,31713144,VNPay,Hoàn thành
+DH0168,2024-09-27,DT008,Vivo V30 Pro,Điện thoại,Vũ Thị Phương,Cần Thơ,1,11139179,11139179,Tiền mặt,Hoàn thành
+DH0169,2024-01-10,LO004,Marshall Emberton III,Loa,Kiều Thị Yến,Hồ Chí Minh,2,3338165,6676330,Chuyển khoản,Hoàn thành
+DH0170,2024-03-26,DH005,Fitbit Charge 6,Đồng hồ thông minh,Ngô Thị Lan,Đồng Nai,1,3336836,3336836,VNPay,Đã hủy
+DH0171,2024-01-27,LO010,Bose TV Speaker,Loa,Nguyễn Văn An,Hồ Chí Minh,1,5887588,5887588,Ví MoMo,Hoàn thành
+DH0172,2024-06-28,DT005,Xiaomi 14 Pro,Điện thoại,Ngô Thị Lan,Long An,1,18952726,18952726,Thẻ tín dụng,Đang xử lý
+DH0173,2024-12-16,PK007,Hub USB-C 7-in-1 Ugreen,Phụ kiện,Lý Thị Ngọc,Đà Nẵng,1,885579,885579,Thẻ tín dụng,Hoàn thành
+DH0174,2024-10-26,PK005,Pin dự phòng Anker 20000mAh,Phụ kiện,Bùi Thị Hoa,Đồng Nai,3,1165153,3495459,Thẻ tín dụng,Đang xử lý
+DH0175,2024-05-06,TN003,Bose QuietComfort 45,Tai nghe,Mai Thị Trang,Hồ Chí Minh,1,7619582,7619582,VNPay,Hoàn thành
+DH0176,2024-12-15,TB005,Xiaomi Pad 6 Pro,Tablet,Phan Minh Xuân,Bình Dương,3,10355975,31067925,Thẻ tín dụng,Đang xử lý
+DH0177,2024-11-07,LO008,Xiaomi Smart Speaker,Loa,Lưu Thị Vân,Đồng Nai,3,946996,2840988,Chuyển khoản,Hoàn thành
+DH0178,2024-10-23,LO002,Sony SRS-XB100,Loa,Ngô Thị Lan,Hồ Chí Minh,3,1178885,3536655,Ví MoMo,Đang xử lý
+DH0179,2024-04-26,LO009,Edifier R1280T Active,Loa,Hoàng Văn Em,Hải Phòng,3,2166963,6500889,Tiền mặt,Hoàn thành
+DH0180,2024-10-31,DT003,Samsung Galaxy S24 Ultra,Điện thoại,Mai Thị Trang,Đồng Nai,2,29167245,58334490,Thẻ tín dụng,Đã hủy
+DH0181,2024-11-12,PK002,Cáp USB-C Belkin 2m,Phụ kiện,Phan Minh Xuân,Hồ Chí Minh,1,463616,463616,Ví MoMo,Đã hủy
+DH0182,2024-11-10,PK004,Kính cường lực Baseus iPhone 15,Phụ kiện,Lý Thị Ngọc,Đà Nẵng,3,268850,806550,Tiền mặt,Hoàn thành
+DH0183,2024-04-05,DT009,Google Pixel 8 Pro,Điện thoại,Đinh Văn Phúc,Hà Nội,1,25242963,25242963,Chuyển khoản,Hoàn thành
+DH0184,2024-12-02,DT002,iPhone 15 128GB,Điện thoại,Đặng Minh Quân,Đồng Nai,2,20977842,41955684,Thẻ tín dụng,Đang xử lý
+DH0185,2024-03-01,LO004,Marshall Emberton III,Loa,Nguyễn Văn An,Đà Nẵng,3,3343044,10029132,Thẻ tín dụng,Hoàn thành
+DH0186,2024-10-25,TN001,Sony WH-1000XM5 Wireless,Tai nghe,Lê Minh Châu,Cần Thơ,3,8043089,24129267,VNPay,Đã hủy
+DH0187,2024-07-02,TB003,Samsung Galaxy Tab S9+,Tablet,Hoàng Văn Em,Hà Nội,1,21033622,21033622,Chuyển khoản,Đang xử lý
+DH0188,2024-08-15,TN006,Sennheiser Momentum 4,Tai nghe,Lưu Thị Vân,Đà Nẵng,3,9311145,27933435,VNPay,Hoàn thành
+DH0189,2024-11-10,DH003,Garmin Venu 3,Đồng hồ thông minh,Phan Minh Xuân,Hà Nội,1,11381914,11381914,Ví MoMo,Đã hủy
+DH0190,2024-05-25,DH003,Garmin Venu 3,Đồng hồ thông minh,Đỗ Văn Khoa,Cần Thơ,1,11405911,11405911,VNPay,Hoàn thành
+DH0191,2024-05-20,LO010,Bose TV Speaker,Loa,Trần Thị Bích,Hồ Chí Minh,3,5503802,16511406,Ví MoMo,Đã hủy
+DH0192,2024-03-22,TB001,iPad Pro M4 11 inch 256GB,Tablet,Cao Minh Sơn,Hải Phòng,3,26727115,80181345,Tiền mặt,Hoàn thành
+DH0193,2024-03-14,TN007,Jabra Evolve2 75,Tai nghe,Vũ Thị Phương,Cần Thơ,2,11280841,22561682,Chuyển khoản,Hoàn thành
+DH0194,2024-12-30,DT002,iPhone 15 128GB,Điện thoại,Kiều Thị Yến,Bình Dương,3,22695196,68085588,Ví MoMo,Hoàn thành
+DH0195,2024-04-05,DT001,iPhone 15 Pro Max 256GB,Điện thoại,Lý Thị Ngọc,Đà Nẵng,2,33978436,67956872,VNPay,Đã hủy
+DH0196,2024-10-22,PK006,Giá đỡ điện thoại Ugreen,Phụ kiện,Đỗ Văn Khoa,Đà Nẵng,1,282566,282566,Chuyển khoản,Đang xử lý
+DH0197,2024-06-07,DT001,iPhone 15 Pro Max 256GB,Điện thoại,Tô Văn Uy,Hải Phòng,3,34335666,103006998,Ví MoMo,Đang xử lý
+DH0198,2024-06-10,TN009,Anker Soundcore Life Q45,Tai nghe,Tô Văn Uy,Bình Dương,3,1453817,4361451,VNPay,Hoàn thành
+DH0199,2024-07-29,TN007,Jabra Evolve2 75,Tai nghe,Ngô Thị Lan,Hải Phòng,2,11852757,23705514,Chuyển khoản,Hoàn thành
+DH0200,2024-11-24,TB003,Samsung Galaxy Tab S9+,Tablet,Trần Thị Bích,Bình Dương,3,20976171,62928513,Ví MoMo,Đang xử lý
+DH0201,2024-04-11,DT010,OnePlus 12 5G,Điện thoại,Trịnh Văn Mạnh,Long An,2,19820734,39641468,Thẻ tín dụng,Hoàn thành
+DH0202,2024-03-02,DT005,Xiaomi 14 Pro,Điện thoại,Trịnh Văn Mạnh,Hải Phòng,2,17145436,34290872,Ví MoMo,Đã hủy
+DH0203,2024-12-01,LO002,Sony SRS-XB100,Loa,Kiều Thị Yến,Đà Nẵng,2,1245283,2490566,Ví MoMo,Hoàn thành
+DH0204,2024-08-17,PK004,Kính cường lực Baseus iPhone 15,Phụ kiện,Đinh Văn Phúc,Hồ Chí Minh,3,263369,790107,Thẻ tín dụng,Hoàn thành
+DH0205,2024-12-22,DT010,OnePlus 12 5G,Điện thoại,Đỗ Văn Khoa,Hải Phòng,1,19761807,19761807,Ví MoMo,Hoàn thành
+DH0206,2024-01-19,DT008,Vivo V30 Pro,Điện thoại,Tô Văn Uy,Bình Dương,2,11287172,22574344,Ví MoMo,Đang xử lý
+DH0207,2024-11-29,LO006,JBL Flip 6,Loa,Vũ Thị Phương,Bình Dương,2,2390818,4781636,VNPay,Đang xử lý
+DH0208,2024-01-02,DT007,OPPO Reno 11 Pro 5G,Điện thoại,Cao Minh Sơn,Hải Phòng,1,11753679,11753679,VNPay,Hoàn thành
+DH0209,2024-01-12,LO009,Edifier R1280T Active,Loa,Đặng Minh Quân,Hồ Chí Minh,3,2170958,6512874,Tiền mặt,Đang xử lý
+DH0210,2024-02-03,PK001,Sạc nhanh Anker 65W GaN,Phụ kiện,Kiều Thị Yến,Cần Thơ,2,847289,1694578,Ví MoMo,Đã hủy
+DH0211,2024-08-17,DT010,OnePlus 12 5G,Điện thoại,Vũ Thị Phương,Hà Nội,2,19720771,39441542,Thẻ tín dụng,Đã hủy
+DH0212,2024-03-21,PK001,Sạc nhanh Anker 65W GaN,Phụ kiện,Đinh Văn Phúc,Hồ Chí Minh,1,843117,843117,VNPay,Hoàn thành
+DH0213,2024-04-21,PK008,Bao da iPad Pro ESR,Phụ kiện,Mai Thị Trang,Long An,3,552687,1658061,Ví MoMo,Hoàn thành
+DH0214,2024-04-19,DT004,Samsung Galaxy A55 5G,Điện thoại,Lưu Thị Vân,Long An,2,9624888,19249776,Chuyển khoản,Đang xử lý
+DH0215,2024-11-21,DH004,Xiaomi Watch S3,Đồng hồ thông minh,Mai Thị Trang,Hải Phòng,3,2906284,8718852,VNPay,Đã hủy
+DH0216,2024-09-02,DT006,Xiaomi Redmi Note 13 Pro,Điện thoại,Trịnh Văn Mạnh,Bình Dương,2,7254583,14509166,Tiền mặt,Hoàn thành
+DH0217,2024-04-19,LO009,Edifier R1280T Active,Loa,Trần Thị Bích,Hà Nội,1,2017982,2017982,VNPay,Đang xử lý
+DH0218,2024-10-15,DH004,Xiaomi Watch S3,Đồng hồ thông minh,Ngô Thị Lan,Hà Nội,2,2841480,5682960,Thẻ tín dụng,Hoàn thành
+DH0219,2024-08-22,LO003,Bose SoundLink Max,Loa,Kiều Thị Yến,Đồng Nai,1,9367745,9367745,VNPay,Hoàn thành
+DH0220,2024-08-18,DT002,iPhone 15 128GB,Điện thoại,Nguyễn Văn An,Hà Nội,1,22461505,22461505,Chuyển khoản,Hoàn thành
+DH0221,2024-05-30,LO009,Edifier R1280T Active,Loa,Đỗ Văn Khoa,Hải Phòng,2,2008068,4016136,Tiền mặt,Hoàn thành
+DH0222,2024-07-17,PK005,Pin dự phòng Anker 20000mAh,Phụ kiện,Phạm Thị Dung,Cần Thơ,1,1258939,1258939,Chuyển khoản,Đã hủy
+DH0223,2024-02-04,LO005,Harman Kardon Onyx Studio 8,Loa,Đỗ Văn Khoa,Bình Dương,3,8494994,25484982,Tiền mặt,Đã hủy
+DH0224,2024-12-27,TN008,Audio-Technica ATH-M50x,Tai nghe,Ngô Thị Lan,Đà Nẵng,2,3615578,7231156,Ví MoMo,Hoàn thành
+DH0225,2024-09-15,DT005,Xiaomi 14 Pro,Điện thoại,Mai Thị Trang,Hà Nội,2,17376591,34753182,Chuyển khoản,Hoàn thành
+DH0226,2024-06-08,PK001,Sạc nhanh Anker 65W GaN,Phụ kiện,Kiều Thị Yến,Long An,1,867035,867035,VNPay,Hoàn thành
+DH0227,2024-07-28,TB005,Xiaomi Pad 6 Pro,Tablet,Đỗ Văn Khoa,Hồ Chí Minh,3,10435380,31306140,Tiền mặt,Hoàn thành
+DH0228,2024-02-11,DT002,iPhone 15 128GB,Điện thoại,Tô Văn Uy,Đồng Nai,2,20906059,41812118,Ví MoMo,Đang xử lý
+DH0229,2024-12-04,DT007,OPPO Reno 11 Pro 5G,Điện thoại,Tô Văn Uy,Cần Thơ,2,12867532,25735064,Tiền mặt,Hoàn thành
+DH0230,2024-06-22,PK003,Ốp lưng Spigen iPhone 15 Pro,Phụ kiện,Lê Minh Châu,Đồng Nai,1,376023,376023,Thẻ tín dụng,Hoàn thành
+DH0231,2024-07-10,TN001,Sony WH-1000XM5 Wireless,Tai nghe,Vũ Thị Phương,Hồ Chí Minh,1,7824404,7824404,Chuyển khoản,Hoàn thành
+DH0232,2024-02-01,PK005,Pin dự phòng Anker 20000mAh,Phụ kiện,Ngô Thị Lan,Cần Thơ,2,1224090,2448180,Chuyển khoản,Đang xử lý
+DH0233,2024-09-18,TN002,Apple AirPods Pro 2nd Gen,Tai nghe,Bùi Thị Hoa,Hải Phòng,1,6076635,6076635,Tiền mặt,Đang xử lý
+DH0234,2024-12-13,LO007,Sonos Era 100,Loa,Hoàng Văn Em,Hà Nội,2,7508958,15017916,Thẻ tín dụng,Hoàn thành
+DH0235,2024-05-13,TB004,Samsung Galaxy Tab A9+,Tablet,Hà Thị Quỳnh,Đà Nẵng,1,7926153,7926153,Ví MoMo,Hoàn thành
+DH0236,2024-12-04,PK006,Giá đỡ điện thoại Ugreen,Phụ kiện,Hà Thị Quỳnh,Cần Thơ,3,272949,818847,VNPay,Hoàn thành
+DH0237,2024-08-05,TN008,Audio-Technica ATH-M50x,Tai nghe,Đặng Minh Quân,Đồng Nai,1,3641692,3641692,Ví MoMo,Hoàn thành
+DH0238,2024-07-31,DH001,Apple Watch Series 9 GPS 41mm,Đồng hồ thông minh,Đinh Văn Phúc,Cần Thơ,3,10109694,30329082,VNPay,Hoàn thành
+DH0239,2024-12-11,LO001,JBL Charge 5 Bluetooth,Loa,Nguyễn Văn An,Hải Phòng,3,3869850,11609550,Thẻ tín dụng,Đã hủy
+DH0240,2024-01-13,TB004,Samsung Galaxy Tab A9+,Tablet,Bùi Thị Hoa,Bình Dương,3,7707724,23123172,Chuyển khoản,Đã hủy
+DH0241,2024-07-11,LO009,Edifier R1280T Active,Loa,Trần Thị Bích,Hà Nội,2,1976563,3953126,Tiền mặt,Đã hủy
+DH0242,2024-07-28,DT009,Google Pixel 8 Pro,Điện thoại,Lưu Thị Vân,Đà Nẵng,2,27452040,54904080,VNPay,Đang xử lý
+DH0243,2024-05-05,LO005,Harman Kardon Onyx Studio 8,Loa,Lê Minh Châu,Đồng Nai,2,8117727,16235454,Tiền mặt,Hoàn thành
+DH0244,2024-07-05,DT003,Samsung Galaxy S24 Ultra,Điện thoại,Tô Văn Uy,Hà Nội,3,28982185,86946555,Chuyển khoản,Đang xử lý
+DH0245,2024-12-14,TB001,iPad Pro M4 11 inch 256GB,Tablet,Bùi Thị Hoa,Hồ Chí Minh,2,28749008,57498016,Thẻ tín dụng,Hoàn thành
+DH0246,2024-01-11,TN002,Apple AirPods Pro 2nd Gen,Tai nghe,Lưu Thị Vân,Hồ Chí Minh,3,5843227,17529681,Ví MoMo,Hoàn thành
+DH0247,2024-11-19,TN008,Audio-Technica ATH-M50x,Tai nghe,Tô Văn Uy,Đồng Nai,2,3802375,7604750,Chuyển khoản,Đang xử lý
+DH0248,2024-12-13,TB005,Xiaomi Pad 6 Pro,Tablet,Đỗ Văn Khoa,Hồ Chí Minh,1,10494620,10494620,Ví MoMo,Hoàn thành
+DH0249,2024-12-16,DT010,OnePlus 12 5G,Điện thoại,Trần Thị Bích,Hồ Chí Minh,2,18112742,36225484,Chuyển khoản,Hoàn thành
+DH0250,2024-05-09,PK003,Ốp lưng Spigen iPhone 15 Pro,Phụ kiện,Nguyễn Văn An,Cần Thơ,1,362178,362178,Thẻ tín dụng,Hoàn thành
+DH0251,2024-08-28,DT005,Xiaomi 14 Pro,Điện thoại,Trần Thị Bích,Cần Thơ,1,18285413,18285413,VNPay,Hoàn thành
+DH0252,2024-10-17,TN007,Jabra Evolve2 75,Tai nghe,Trịnh Văn Mạnh,Đà Nẵng,3,11949674,35849022,Tiền mặt,Đã hủy
+DH0253,2024-09-20,LO003,Bose SoundLink Max,Loa,Ngô Thị Lan,Cần Thơ,1,9157832,9157832,Tiền mặt,Đã hủy
+DH0254,2024-02-04,TB002,iPad Air M2 128GB,Tablet,Hoàng Văn Em,Đà Nẵng,1,16310654,16310654,Thẻ tín dụng,Đang xử lý
+DH0255,2024-07-02,TB006,Lenovo Tab P12 Pro,Tablet,Lưu Thị Vân,Cần Thơ,1,12771394,12771394,VNPay,Hoàn thành
+DH0256,2024-03-21,TN008,Audio-Technica ATH-M50x,Tai nghe,Lưu Thị Vân,Bình Dương,2,3689124,7378248,Thẻ tín dụng,Hoàn thành
+DH0257,2024-04-23,DT007,OPPO Reno 11 Pro 5G,Điện thoại,Tô Văn Uy,Hà Nội,3,12810661,38431983,Chuyển khoản,Đang xử lý
+DH0258,2024-11-08,PK005,Pin dự phòng Anker 20000mAh,Phụ kiện,Ngô Thị Lan,Bình Dương,2,1223396,2446792,VNPay,Đang xử lý
+DH0259,2024-07-14,DH002,Samsung Galaxy Watch 6 Classic,Đồng hồ thông minh,Đinh Văn Phúc,Long An,3,9429572,28288716,Chuyển khoản,Hoàn thành
+DH0260,2024-01-08,LO004,Marshall Emberton III,Loa,Kiều Thị Yến,Hải Phòng,3,3157564,9472692,Thẻ tín dụng,Hoàn thành
+DH0261,2024-07-29,TN012,Nothing Ear (2),Tai nghe,Phạm Thị Dung,Hồ Chí Minh,3,2777216,8331648,Ví MoMo,Hoàn thành
+DH0262,2024-06-27,TN010,Edifier W820NB Plus,Tai nghe,Phạm Thị Dung,Cần Thơ,3,1984322,5952966,Tiền mặt,Đã hủy
+DH0263,2024-04-23,PK007,Hub USB-C 7-in-1 Ugreen,Phụ kiện,Đặng Minh Quân,Đà Nẵng,2,859941,1719882,Thẻ tín dụng,Đang xử lý
+DH0264,2024-01-25,DT003,Samsung Galaxy S24 Ultra,Điện thoại,Lê Minh Châu,Bình Dương,2,30323657,60647314,Thẻ tín dụng,Hoàn thành
+DH0265,2024-01-15,DT006,Xiaomi Redmi Note 13 Pro,Điện thoại,Phạm Thị Dung,Long An,3,6823694,20471082,Ví MoMo,Hoàn thành
+DH0266,2024-02-27,PK003,Ốp lưng Spigen iPhone 15 Pro,Phụ kiện,Lưu Thị Vân,Hồ Chí Minh,1,384532,384532,Thẻ tín dụng,Đã hủy
+DH0267,2024-01-11,DH003,Garmin Venu 3,Đồng hồ thông minh,Mai Thị Trang,Hà Nội,1,11727704,11727704,Tiền mặt,Hoàn thành
+DH0268,2024-11-19,DH005,Fitbit Charge 6,Đồng hồ thông minh,Hà Thị Quỳnh,Long An,1,3388721,3388721,Chuyển khoản,Đang xử lý
+DH0269,2024-07-21,DT010,OnePlus 12 5G,Điện thoại,Vũ Thị Phương,Long An,1,18984895,18984895,VNPay,Hoàn thành
+DH0270,2024-10-24,DT005,Xiaomi 14 Pro,Điện thoại,Đặng Minh Quân,Cần Thơ,1,17421066,17421066,Thẻ tín dụng,Hoàn thành
+DH0271,2024-01-19,TN002,Apple AirPods Pro 2nd Gen,Tai nghe,Trần Thị Bích,Hà Nội,3,6484031,19452093,Tiền mặt,Đang xử lý
+DH0272,2024-12-06,DT005,Xiaomi 14 Pro,Điện thoại,Vũ Thị Phương,Đà Nẵng,3,17628184,52884552,Thẻ tín dụng,Đã hủy
+DH0273,2024-05-03,DT008,Vivo V30 Pro,Điện thoại,Phạm Thị Dung,Hồ Chí Minh,2,10487497,20974994,VNPay,Hoàn thành
+DH0274,2024-06-17,TN007,Jabra Evolve2 75,Tai nghe,Tô Văn Uy,Cần Thơ,2,11688759,23377518,Thẻ tín dụng,Hoàn thành
+DH0275,2024-09-22,PK007,Hub USB-C 7-in-1 Ugreen,Phụ kiện,Vũ Thị Phương,Bình Dương,1,862518,862518,Thẻ tín dụng,Hoàn thành
+DH0276,2024-02-29,TN008,Audio-Technica ATH-M50x,Tai nghe,Nguyễn Văn An,Hà Nội,2,3685056,7370112,VNPay,Hoàn thành
+DH0277,2024-12-22,DH005,Fitbit Charge 6,Đồng hồ thông minh,Đinh Văn Phúc,Long An,1,3200835,3200835,Chuyển khoản,Hoàn thành
+DH0278,2024-08-17,DT002,iPhone 15 128GB,Điện thoại,Trần Thị Bích,Cần Thơ,2,21700814,43401628,Thẻ tín dụng,Hoàn thành
+DH0279,2024-12-13,LO007,Sonos Era 100,Loa,Lưu Thị Vân,Cần Thơ,3,7265540,21796620,Thẻ tín dụng,Đang xử lý
+DH0280,2024-10-06,DT004,Samsung Galaxy A55 5G,Điện thoại,Ngô Thị Lan,Hà Nội,2,10004775,20009550,Ví MoMo,Hoàn thành
+DH0281,2024-11-12,PK003,Ốp lưng Spigen iPhone 15 Pro,Phụ kiện,Ngô Thị Lan,Hải Phòng,3,371122,1113366,Chuyển khoản,Hoàn thành
+DH0282,2024-01-21,TN007,Jabra Evolve2 75,Tai nghe,Đinh Văn Phúc,Đồng Nai,1,12108635,12108635,Chuyển khoản,Đang xử lý
+DH0283,2024-07-19,TN010,Edifier W820NB Plus,Tai nghe,Bùi Thị Hoa,Đà Nẵng,2,1946835,3893670,Thẻ tín dụng,Hoàn thành
+DH0284,2024-03-22,DT001,iPhone 15 Pro Max 256GB,Điện thoại,Cao Minh Sơn,Hồ Chí Minh,1,33150292,33150292,Tiền mặt,Hoàn thành
+DH0285,2024-11-24,DH003,Garmin Venu 3,Đồng hồ thông minh,Kiều Thị Yến,Đà Nẵng,3,11520809,34562427,Chuyển khoản,Hoàn thành
+DH0286,2024-12-13,TN003,Bose QuietComfort 45,Tai nghe,Hoàng Văn Em,Cần Thơ,1,7825970,7825970,Tiền mặt,Đã hủy
+DH0287,2024-07-06,TB003,Samsung Galaxy Tab S9+,Tablet,Mai Thị Trang,Đồng Nai,3,21827456,65482368,Chuyển khoản,Hoàn thành
+DH0288,2024-12-27,LO007,Sonos Era 100,Loa,Đặng Minh Quân,Hải Phòng,1,7277219,7277219,Tiền mặt,Hoàn thành
+DH0289,2024-02-11,TB005,Xiaomi Pad 6 Pro,Tablet,Lý Thị Ngọc,Cần Thơ,3,10252670,30758010,VNPay,Đã hủy
+DH0290,2024-10-20,TN010,Edifier W820NB Plus,Tai nghe,Kiều Thị Yến,Hồ Chí Minh,2,1913082,3826164,VNPay,Hoàn thành
+DH0291,2024-05-26,TN002,Apple AirPods Pro 2nd Gen,Tai nghe,Lê Minh Châu,Đà Nẵng,3,6398002,19194006,VNPay,Hoàn thành
+DH0292,2024-09-21,PK007,Hub USB-C 7-in-1 Ugreen,Phụ kiện,Phan Minh Xuân,Hà Nội,3,858741,2576223,Tiền mặt,Đã hủy
+DH0293,2024-10-02,LO008,Xiaomi Smart Speaker,Loa,Tô Văn Uy,Hà Nội,2,988587,1977174,Ví MoMo,Hoàn thành
+DH0294,2024-12-18,TN002,Apple AirPods Pro 2nd Gen,Tai nghe,Kiều Thị Yến,Bình Dương,2,6127921,12255842,VNPay,Hoàn thành
+DH0295,2024-08-17,TN003,Bose QuietComfort 45,Tai nghe,Nguyễn Văn An,Bình Dương,3,7403412,22210236,Ví MoMo,Đang xử lý
+DH0296,2024-05-26,DT006,Xiaomi Redmi Note 13 Pro,Điện thoại,Nguyễn Văn An,Hà Nội,2,7128386,14256772,Thẻ tín dụng,Hoàn thành
+DH0297,2024-11-05,LO009,Edifier R1280T Active,Loa,Mai Thị Trang,Hồ Chí Minh,3,2009860,6029580,Chuyển khoản,Hoàn thành
+DH0298,2024-12-01,LO002,Sony SRS-XB100,Loa,Phạm Thị Dung,Long An,1,1171734,1171734,Ví MoMo,Hoàn thành
+DH0299,2024-08-08,LO009,Edifier R1280T Active,Loa,Lý Thị Ngọc,Hải Phòng,3,2090493,6271479,Tiền mặt,Đã hủy
+DH0300,2024-04-04,TN009,Anker Soundcore Life Q45,Tai nghe,Đỗ Văn Khoa,Cần Thơ,2,1416831,2833662,Ví MoMo,Hoàn thành
+DH0301,2024-12-10,PK008,Bao da iPad Pro ESR,Phụ kiện,Cao Minh Sơn,Hà Nội,3,556034,1668102,Ví MoMo,Đang xử lý
+DH0302,2024-03-17,TN010,Edifier W820NB Plus,Tai nghe,Lưu Thị Vân,Đà Nẵng,2,1948699,3897398,VNPay,Hoàn thành
+DH0303,2024-07-15,LO003,Bose SoundLink Max,Loa,Nguyễn Văn An,Long An,3,8897521,26692563,Thẻ tín dụng,Đang xử lý
+DH0304,2024-06-04,DH004,Xiaomi Watch S3,Đồng hồ thông minh,Ngô Thị Lan,Cần Thơ,3,2896533,8689599,Thẻ tín dụng,Hoàn thành
+DH0305,2024-06-15,PK005,Pin dự phòng Anker 20000mAh,Phụ kiện,Phạm Thị Dung,Hải Phòng,3,1180073,3540219,Thẻ tín dụng,Hoàn thành
+DH0306,2024-03-01,TN010,Edifier W820NB Plus,Tai nghe,Trịnh Văn Mạnh,Đà Nẵng,3,1904375,5713125,Thẻ tín dụng,Hoàn thành
+DH0307,2024-01-17,PK007,Hub USB-C 7-in-1 Ugreen,Phụ kiện,Kiều Thị Yến,Đồng Nai,2,848962,1697924,Thẻ tín dụng,Hoàn thành
+DH0308,2024-11-24,DT009,Google Pixel 8 Pro,Điện thoại,Hoàng Văn Em,Cần Thơ,2,25651381,51302762,VNPay,Hoàn thành
+DH0309,2024-05-22,TN002,Apple AirPods Pro 2nd Gen,Tai nghe,Trịnh Văn Mạnh,Long An,1,6249502,6249502,Tiền mặt,Hoàn thành
+DH0310,2024-09-15,TN003,Bose QuietComfort 45,Tai nghe,Đỗ Văn Khoa,Đà Nẵng,3,7326095,21978285,Thẻ tín dụng,Hoàn thành
+DH0311,2024-05-14,DH002,Samsung Galaxy Watch 6 Classic,Đồng hồ thông minh,Phan Minh Xuân,Cần Thơ,3,9435523,28306569,VNPay,Hoàn thành
+DH0312,2024-03-14,TN008,Audio-Technica ATH-M50x,Tai nghe,Kiều Thị Yến,Long An,1,3636945,3636945,Thẻ tín dụng,Hoàn thành
+DH0313,2024-07-17,TN001,Sony WH-1000XM5 Wireless,Tai nghe,Lê Minh Châu,Hà Nội,2,7731430,15462860,Chuyển khoản,Đã hủy
+DH0314,2024-01-11,PK008,Bao da iPad Pro ESR,Phụ kiện,Hà Thị Quỳnh,Bình Dương,1,586582,586582,Tiền mặt,Hoàn thành
+DH0315,2024-05-24,DT009,Google Pixel 8 Pro,Điện thoại,Phan Minh Xuân,Long An,2,27688068,55376136,Thẻ tín dụng,Đã hủy
+DH0316,2024-07-04,DT004,Samsung Galaxy A55 5G,Điện thoại,Nguyễn Văn An,Đồng Nai,3,9572073,28716219,Tiền mặt,Hoàn thành
+DH0317,2024-10-16,TN001,Sony WH-1000XM5 Wireless,Tai nghe,Lưu Thị Vân,Bình Dương,1,7918836,7918836,Chuyển khoản,Hoàn thành
+DH0318,2024-03-24,TB003,Samsung Galaxy Tab S9+,Tablet,Tô Văn Uy,Hà Nội,2,21817722,43635444,Tiền mặt,Hoàn thành
+DH0319,2024-11-17,DT001,iPhone 15 Pro Max 256GB,Điện thoại,Nguyễn Văn An,Cần Thơ,1,32719354,32719354,Tiền mặt,Đang xử lý
+DH0320,2024-06-13,TN007,Jabra Evolve2 75,Tai nghe,Đỗ Văn Khoa,Hải Phòng,1,11279421,11279421,VNPay,Đang xử lý
+DH0321,2024-03-29,LO004,Marshall Emberton III,Loa,Lý Thị Ngọc,Hồ Chí Minh,2,3438054,6876108,Chuyển khoản,Đang xử lý
+DH0322,2024-03-07,TN003,Bose QuietComfort 45,Tai nghe,Tô Văn Uy,Hà Nội,2,7872616,15745232,Thẻ tín dụng,Hoàn thành
+DH0323,2024-04-28,LO002,Sony SRS-XB100,Loa,Ngô Thị Lan,Bình Dương,1,1279513,1279513,Thẻ tín dụng,Hoàn thành
+DH0324,2024-11-04,LO009,Edifier R1280T Active,Loa,Hà Thị Quỳnh,Hồ Chí Minh,1,2116481,2116481,Thẻ tín dụng,Đang xử lý
+DH0325,2024-12-16,DT001,iPhone 15 Pro Max 256GB,Điện thoại,Vũ Thị Phương,Hải Phòng,3,33028454,99085362,VNPay,Hoàn thành
+DH0326,2024-09-23,DT008,Vivo V30 Pro,Điện thoại,Lưu Thị Vân,Hà Nội,2,10410162,20820324,Thẻ tín dụng,Đang xử lý
+DH0327,2024-02-16,PK007,Hub USB-C 7-in-1 Ugreen,Phụ kiện,Lưu Thị Vân,Đồng Nai,1,876887,876887,VNPay,Đang xử lý
+DH0328,2024-06-10,PK008,Bao da iPad Pro ESR,Phụ kiện,Lưu Thị Vân,Hải Phòng,1,562609,562609,Ví MoMo,Đã hủy
+DH0329,2024-06-30,LO009,Edifier R1280T Active,Loa,Vũ Thị Phương,Hải Phòng,2,2151575,4303150,Tiền mặt,Đang xử lý
+DH0330,2024-05-15,DH004,Xiaomi Watch S3,Đồng hồ thông minh,Trịnh Văn Mạnh,Đà Nẵng,1,2694985,2694985,Ví MoMo,Đã hủy
+DH0331,2024-10-07,PK003,Ốp lưng Spigen iPhone 15 Pro,Phụ kiện,Đinh Văn Phúc,Long An,2,351694,703388,VNPay,Đang xử lý
+DH0332,2024-05-19,DT003,Samsung Galaxy S24 Ultra,Điện thoại,Phạm Thị Dung,Đồng Nai,3,30044247,90132741,Tiền mặt,Hoàn thành
+DH0333,2024-12-23,DT003,Samsung Galaxy S24 Ultra,Điện thoại,Tô Văn Uy,Long An,2,31267540,62535080,VNPay,Đã hủy
+DH0334,2024-07-18,LO009,Edifier R1280T Active,Loa,Nguyễn Văn An,Hải Phòng,3,2074523,6223569,Tiền mặt,Đang xử lý
+DH0335,2024-12-21,DT003,Samsung Galaxy S24 Ultra,Điện thoại,Đặng Minh Quân,Hải Phòng,1,29938772,29938772,Tiền mặt,Hoàn thành
+DH0336,2024-10-25,DT003,Samsung Galaxy S24 Ultra,Điện thoại,Đỗ Văn Khoa,Đồng Nai,3,30323376,90970128,Ví MoMo,Đang xử lý
+DH0337,2024-03-31,LO006,JBL Flip 6,Loa,Vũ Thị Phương,Hồ Chí Minh,1,2461738,2461738,Chuyển khoản,Đã hủy
+DH0338,2024-03-19,DT008,Vivo V30 Pro,Điện thoại,Kiều Thị Yến,Cần Thơ,2,11394980,22789960,VNPay,Hoàn thành
+DH0339,2024-12-21,TN002,Apple AirPods Pro 2nd Gen,Tai nghe,Đinh Văn Phúc,Hồ Chí Minh,2,6371012,12742024,VNPay,Đã hủy
+DH0340,2024-12-05,TN001,Sony WH-1000XM5 Wireless,Tai nghe,Cao Minh Sơn,Đà Nẵng,1,8019638,8019638,Thẻ tín dụng,Đang xử lý
+DH0341,2024-10-26,TN012,Nothing Ear (2),Tai nghe,Trịnh Văn Mạnh,Hồ Chí Minh,1,2740353,2740353,Chuyển khoản,Hoàn thành
+DH0342,2024-09-07,DH002,Samsung Galaxy Watch 6 Classic,Đồng hồ thông minh,Tô Văn Uy,Đồng Nai,3,9278100,27834300,Thẻ tín dụng,Đang xử lý
+DH0343,2024-12-21,TB001,iPad Pro M4 11 inch 256GB,Tablet,Ngô Thị Lan,Long An,3,27427009,82281027,Chuyển khoản,Đang xử lý
+DH0344,2024-06-25,TB006,Lenovo Tab P12 Pro,Tablet,Hoàng Văn Em,Đà Nẵng,1,13850334,13850334,Chuyển khoản,Hoàn thành
+DH0345,2024-02-24,TN001,Sony WH-1000XM5 Wireless,Tai nghe,Lý Thị Ngọc,Đồng Nai,2,7895986,15791972,Chuyển khoản,Hoàn thành
+DH0346,2024-11-11,DT005,Xiaomi 14 Pro,Điện thoại,Phạm Thị Dung,Cần Thơ,1,17636713,17636713,Chuyển khoản,Hoàn thành
+DH0347,2024-12-10,DH005,Fitbit Charge 6,Đồng hồ thông minh,Phan Minh Xuân,Long An,2,3331793,6663586,Ví MoMo,Hoàn thành
+DH0348,2024-08-24,DH001,Apple Watch Series 9 GPS 41mm,Đồng hồ thông minh,Vũ Thị Phương,Bình Dương,3,10889866,32669598,VNPay,Hoàn thành
+DH0349,2024-03-06,DT001,iPhone 15 Pro Max 256GB,Điện thoại,Lê Minh Châu,Long An,3,31578290,94734870,Chuyển khoản,Đã hủy
+DH0350,2024-10-29,DT009,Google Pixel 8 Pro,Điện thoại,Lưu Thị Vân,Hà Nội,1,25503245,25503245,Tiền mặt,Hoàn thành
+DH0351,2024-04-14,TN001,Sony WH-1000XM5 Wireless,Tai nghe,Vũ Thị Phương,Cần Thơ,3,8098419,24295257,Thẻ tín dụng,Hoàn thành
+DH0352,2024-04-03,LO010,Bose TV Speaker,Loa,Bùi Thị Hoa,Đồng Nai,3,5510723,16532169,Ví MoMo,Đang xử lý
+DH0353,2024-07-30,DH001,Apple Watch Series 9 GPS 41mm,Đồng hồ thông minh,Ngô Thị Lan,Hải Phòng,3,10724927,32174781,Thẻ tín dụng,Hoàn thành
+DH0354,2024-04-13,LO009,Edifier R1280T Active,Loa,Phan Minh Xuân,Hà Nội,3,2026698,6080094,Tiền mặt,Hoàn thành
+DH0355,2024-10-11,LO010,Bose TV Speaker,Loa,Phạm Thị Dung,Cần Thơ,3,5565390,16696170,Tiền mặt,Hoàn thành
+DH0356,2024-08-02,TB004,Samsung Galaxy Tab A9+,Tablet,Đỗ Văn Khoa,Bình Dương,3,8258922,24776766,Tiền mặt,Đã hủy
+DH0357,2024-03-06,PK003,Ốp lưng Spigen iPhone 15 Pro,Phụ kiện,Hoàng Văn Em,Hải Phòng,2,366319,732638,Tiền mặt,Đã hủy
+DH0358,2024-11-25,TN010,Edifier W820NB Plus,Tai nghe,Phạm Thị Dung,Cần Thơ,2,1955392,3910784,Thẻ tín dụng,Đang xử lý
+DH0359,2024-07-19,TN012,Nothing Ear (2),Tai nghe,Đặng Minh Quân,Long An,1,2834105,2834105,Thẻ tín dụng,Đã hủy
+DH0360,2024-09-21,LO001,JBL Charge 5 Bluetooth,Loa,Đinh Văn Phúc,Hồ Chí Minh,3,3693822,11081466,VNPay,Đang xử lý
+DH0361,2024-07-08,TN002,Apple AirPods Pro 2nd Gen,Tai nghe,Đặng Minh Quân,Bình Dương,2,5960059,11920118,VNPay,Đang xử lý
+DH0362,2024-12-29,TN010,Edifier W820NB Plus,Tai nghe,Trịnh Văn Mạnh,Hồ Chí Minh,3,1852204,5556612,Chuyển khoản,Hoàn thành
+DH0363,2024-05-07,DT001,iPhone 15 Pro Max 256GB,Điện thoại,Lê Minh Châu,Hà Nội,2,34739272,69478544,Ví MoMo,Đang xử lý
+DH0364,2024-08-09,DT009,Google Pixel 8 Pro,Điện thoại,Nguyễn Văn An,Long An,3,26591702,79775106,Tiền mặt,Đang xử lý
+DH0365,2024-02-22,DT005,Xiaomi 14 Pro,Điện thoại,Phạm Thị Dung,Hải Phòng,1,18205168,18205168,Tiền mặt,Đã hủy
+DH0366,2024-12-06,LO004,Marshall Emberton III,Loa,Trần Thị Bích,Hồ Chí Minh,1,3375210,3375210,Thẻ tín dụng,Hoàn thành
+DH0367,2024-12-07,LO009,Edifier R1280T Active,Loa,Tô Văn Uy,Long An,1,1998077,1998077,Thẻ tín dụng,Đang xử lý
+DH0368,2024-04-05,DH001,Apple Watch Series 9 GPS 41mm,Đồng hồ thông minh,Kiều Thị Yến,Bình Dương,2,10760299,21520598,Chuyển khoản,Đã hủy
+DH0369,2024-08-31,PK004,Kính cường lực Baseus iPhone 15,Phụ kiện,Tô Văn Uy,Hà Nội,1,274555,274555,VNPay,Hoàn thành
+DH0370,2024-02-20,TB001,iPad Pro M4 11 inch 256GB,Tablet,Nguyễn Văn An,Hà Nội,1,27345460,27345460,Thẻ tín dụng,Hoàn thành
+DH0371,2024-08-30,TN008,Audio-Technica ATH-M50x,Tai nghe,Lê Minh Châu,Đà Nẵng,3,3833388,11500164,Thẻ tín dụng,Hoàn thành
+DH0372,2024-11-25,TB001,iPad Pro M4 11 inch 256GB,Tablet,Hà Thị Quỳnh,Long An,2,28410036,56820072,Ví MoMo,Đang xử lý
+DH0373,2024-12-18,DH004,Xiaomi Watch S3,Đồng hồ thông minh,Lê Minh Châu,Cần Thơ,1,2911572,2911572,Tiền mặt,Hoàn thành
+DH0374,2024-12-22,LO006,JBL Flip 6,Loa,Phạm Thị Dung,Đà Nẵng,3,2317253,6951759,VNPay,Đang xử lý
+DH0375,2024-07-04,LO002,Sony SRS-XB100,Loa,Ngô Thị Lan,Hồ Chí Minh,3,1242491,3727473,Ví MoMo,Đã hủy
+DH0376,2024-12-22,PK008,Bao da iPad Pro ESR,Phụ kiện,Đỗ Văn Khoa,Hải Phòng,1,547244,547244,Ví MoMo,Đã hủy
+DH0377,2024-02-03,LO007,Sonos Era 100,Loa,Phạm Thị Dung,Hà Nội,1,7839189,7839189,Chuyển khoản,Hoàn thành
+DH0378,2024-09-04,DT004,Samsung Galaxy A55 5G,Điện thoại,Mai Thị Trang,Đà Nẵng,3,9818061,29454183,Ví MoMo,Hoàn thành
+DH0379,2024-07-16,LO009,Edifier R1280T Active,Loa,Hoàng Văn Em,Đà Nẵng,1,2164210,2164210,Tiền mặt,Đã hủy
+DH0380,2024-04-11,TN006,Sennheiser Momentum 4,Tai nghe,Hoàng Văn Em,Đà Nẵng,1,9600089,9600089,Ví MoMo,Đang xử lý
+DH0381,2024-03-21,TN005,JBL Tune 770NC,Tai nghe,Nguyễn Văn An,Cần Thơ,2,2275393,4550786,Chuyển khoản,Đang xử lý
+DH0382,2024-05-16,TB006,Lenovo Tab P12 Pro,Tablet,Cao Minh Sơn,Đà Nẵng,2,13021695,26043390,VNPay,Hoàn thành
+DH0383,2024-06-20,DH001,Apple Watch Series 9 GPS 41mm,Đồng hồ thông minh,Trần Thị Bích,Bình Dương,3,10677126,32031378,Tiền mặt,Hoàn thành
+DH0384,2024-05-30,DH001,Apple Watch Series 9 GPS 41mm,Đồng hồ thông minh,Phạm Thị Dung,Hồ Chí Minh,2,10305492,20610984,Thẻ tín dụng,Hoàn thành
+DH0385,2024-08-19,LO004,Marshall Emberton III,Loa,Tô Văn Uy,Hồ Chí Minh,2,3278965,6557930,Ví MoMo,Hoàn thành
+DH0386,2024-05-06,DH003,Garmin Venu 3,Đồng hồ thông minh,Bùi Thị Hoa,Đà Nẵng,2,11357490,22714980,Chuyển khoản,Hoàn thành
+DH0387,2024-02-25,LO003,Bose SoundLink Max,Loa,Kiều Thị Yến,Long An,1,8843778,8843778,Chuyển khoản,Hoàn thành
+DH0388,2024-11-23,TN002,Apple AirPods Pro 2nd Gen,Tai nghe,Lý Thị Ngọc,Long An,1,6365476,6365476,VNPay,Đang xử lý
+DH0389,2024-04-07,DT008,Vivo V30 Pro,Điện thoại,Mai Thị Trang,Đà Nẵng,3,10355678,31067034,Tiền mặt,Hoàn thành
+DH0390,2024-04-05,TB002,iPad Air M2 128GB,Tablet,Cao Minh Sơn,Hồ Chí Minh,3,15633556,46900668,Thẻ tín dụng,Hoàn thành
+DH0391,2024-03-26,DT002,iPhone 15 128GB,Điện thoại,Đinh Văn Phúc,Long An,1,22882155,22882155,Thẻ tín dụng,Đã hủy
+DH0392,2024-03-15,TN010,Edifier W820NB Plus,Tai nghe,Đỗ Văn Khoa,Hà Nội,3,1943591,5830773,Ví MoMo,Hoàn thành
+DH0393,2024-06-25,TN001,Sony WH-1000XM5 Wireless,Tai nghe,Phan Minh Xuân,Bình Dương,1,8465960,8465960,Thẻ tín dụng,Hoàn thành
+DH0394,2024-09-10,TB001,iPad Pro M4 11 inch 256GB,Tablet,Phan Minh Xuân,Đồng Nai,3,28785473,86356419,Tiền mặt,Hoàn thành
+DH0395,2024-12-07,DH001,Apple Watch Series 9 GPS 41mm,Đồng hồ thông minh,Cao Minh Sơn,Hồ Chí Minh,1,10029829,10029829,VNPay,Đang xử lý
+DH0396,2024-04-21,LO009,Edifier R1280T Active,Loa,Lưu Thị Vân,Cần Thơ,1,2084287,2084287,Tiền mặt,Hoàn thành
+DH0397,2024-11-16,LO009,Edifier R1280T Active,Loa,Lê Minh Châu,Cần Thơ,2,2119910,4239820,Tiền mặt,Hoàn thành
+DH0398,2024-08-01,DT006,Xiaomi Redmi Note 13 Pro,Điện thoại,Phạm Thị Dung,Đà Nẵng,3,6927747,20783241,VNPay,Đã hủy
+DH0399,2024-09-05,TB001,iPad Pro M4 11 inch 256GB,Tablet,Đặng Minh Quân,Bình Dương,3,27878154,83634462,Tiền mặt,Hoàn thành
+DH0400,2024-07-29,LO007,Sonos Era 100,Loa,Đỗ Văn Khoa,Bình Dương,3,7572920,22718760,Ví MoMo,Đang xử lý
+DH0401,2024-06-25,DH004,Xiaomi Watch S3,Đồng hồ thông minh,Đinh Văn Phúc,Đồng Nai,1,2974762,2974762,VNPay,Hoàn thành
+DH0402,2024-11-07,PK007,Hub USB-C 7-in-1 Ugreen,Phụ kiện,Lý Thị Ngọc,Đà Nẵng,1,858087,858087,VNPay,Đã hủy
+DH0403,2024-06-05,LO007,Sonos Era 100,Loa,Phan Minh Xuân,Hồ Chí Minh,2,7951281,15902562,Chuyển khoản,Đã hủy
+DH0404,2024-01-04,DT004,Samsung Galaxy A55 5G,Điện thoại,Đinh Văn Phúc,Cần Thơ,2,10067647,20135294,VNPay,Đang xử lý
+DH0405,2024-08-30,LO003,Bose SoundLink Max,Loa,Nguyễn Văn An,Hà Nội,3,9265652,27796956,Chuyển khoản,Hoàn thành
+DH0406,2024-04-15,DT005,Xiaomi 14 Pro,Điện thoại,Vũ Thị Phương,Cần Thơ,2,17254296,34508592,Tiền mặt,Hoàn thành
+DH0407,2024-01-29,DT002,iPhone 15 128GB,Điện thoại,Cao Minh Sơn,Cần Thơ,3,21097453,63292359,Ví MoMo,Hoàn thành
+DH0408,2024-04-17,DT002,iPhone 15 128GB,Điện thoại,Hoàng Văn Em,Hà Nội,1,22848831,22848831,Tiền mặt,Hoàn thành
+DH0409,2024-06-15,LO002,Sony SRS-XB100,Loa,Hà Thị Quỳnh,Long An,1,1223213,1223213,Tiền mặt,Đang xử lý
+DH0410,2024-08-14,TN001,Sony WH-1000XM5 Wireless,Tai nghe,Lưu Thị Vân,Long An,3,8084332,24252996,VNPay,Đang xử lý
+DH0411,2024-06-28,LO008,Xiaomi Smart Speaker,Loa,Kiều Thị Yến,Long An,2,894665,1789330,Tiền mặt,Đang xử lý
+DH0412,2024-11-06,DT001,iPhone 15 Pro Max 256GB,Điện thoại,Hoàng Văn Em,Đồng Nai,3,31511672,94535016,Chuyển khoản,Đã hủy
+DH0413,2024-09-14,TN001,Sony WH-1000XM5 Wireless,Tai nghe,Đinh Văn Phúc,Hải Phòng,3,8300521,24901563,Thẻ tín dụng,Hoàn thành
+DH0414,2024-02-09,LO008,Xiaomi Smart Speaker,Loa,Bùi Thị Hoa,Hà Nội,3,903955,2711865,Chuyển khoản,Hoàn thành
+DH0415,2024-02-26,DH005,Fitbit Charge 6,Đồng hồ thông minh,Hoàng Văn Em,Đồng Nai,3,3432828,10298484,VNPay,Hoàn thành
+DH0416,2024-01-28,LO009,Edifier R1280T Active,Loa,Lý Thị Ngọc,Long An,3,2133922,6401766,VNPay,Hoàn thành
+DH0417,2024-02-08,DT006,Xiaomi Redmi Note 13 Pro,Điện thoại,Đỗ Văn Khoa,Hồ Chí Minh,1,7232584,7232584,Tiền mặt,Đã hủy
+DH0418,2024-02-27,DT009,Google Pixel 8 Pro,Điện thoại,Trần Thị Bích,Bình Dương,3,25783560,77350680,Ví MoMo,Hoàn thành
+DH0419,2024-09-18,TN008,Audio-Technica ATH-M50x,Tai nghe,Phạm Thị Dung,Long An,3,3613372,10840116,Chuyển khoản,Hoàn thành
+DH0420,2024-11-01,TN012,Nothing Ear (2),Tai nghe,Kiều Thị Yến,Hải Phòng,2,2902344,5804688,Tiền mặt,Đã hủy
+DH0421,2024-11-26,TN005,JBL Tune 770NC,Tai nghe,Trần Thị Bích,Đà Nẵng,1,2259891,2259891,Chuyển khoản,Hoàn thành
+DH0422,2024-07-11,DH003,Garmin Venu 3,Đồng hồ thông minh,Đinh Văn Phúc,Đồng Nai,2,11527434,23054868,Tiền mặt,Đã hủy
+DH0423,2024-02-12,DH001,Apple Watch Series 9 GPS 41mm,Đồng hồ thông minh,Lê Minh Châu,Hải Phòng,3,10163582,30490746,Ví MoMo,Hoàn thành
+DH0424,2024-02-29,PK004,Kính cường lực Baseus iPhone 15,Phụ kiện,Lưu Thị Vân,Đà Nẵng,2,263231,526462,Chuyển khoản,Đã hủy
+DH0425,2024-03-24,TN001,Sony WH-1000XM5 Wireless,Tai nghe,Ngô Thị Lan,Cần Thơ,1,8140556,8140556,Tiền mặt,Hoàn thành
+DH0426,2024-12-02,TN001,Sony WH-1000XM5 Wireless,Tai nghe,Kiều Thị Yến,Bình Dương,1,8176974,8176974,VNPay,Hoàn thành
+DH0427,2024-05-18,LO005,Harman Kardon Onyx Studio 8,Loa,Bùi Thị Hoa,Long An,1,8155090,8155090,Tiền mặt,Hoàn thành
+DH0428,2024-06-06,TN006,Sennheiser Momentum 4,Tai nghe,Lưu Thị Vân,Hải Phòng,2,9133954,18267908,VNPay,Hoàn thành
+DH0429,2024-01-14,LO003,Bose SoundLink Max,Loa,Trần Thị Bích,Long An,3,8546461,25639383,Tiền mặt,Hoàn thành
+DH0430,2024-07-21,DT007,OPPO Reno 11 Pro 5G,Điện thoại,Bùi Thị Hoa,Cần Thơ,1,12760435,12760435,VNPay,Hoàn thành
+DH0431,2024-08-02,LO007,Sonos Era 100,Loa,Tô Văn Uy,Đồng Nai,2,7449699,14899398,Thẻ tín dụng,Hoàn thành
+DH0432,2024-07-24,LO005,Harman Kardon Onyx Studio 8,Loa,Tô Văn Uy,Đà Nẵng,2,8391341,16782682,Ví MoMo,Hoàn thành
+DH0433,2024-11-28,LO001,JBL Charge 5 Bluetooth,Loa,Hoàng Văn Em,Hà Nội,2,3660589,7321178,Thẻ tín dụng,Hoàn thành
+DH0434,2024-07-13,LO005,Harman Kardon Onyx Studio 8,Loa,Phạm Thị Dung,Bình Dương,1,8852033,8852033,Tiền mặt,Hoàn thành
+DH0435,2024-12-04,PK008,Bao da iPad Pro ESR,Phụ kiện,Phạm Thị Dung,Cần Thơ,2,580075,1160150,VNPay,Hoàn thành
+DH0436,2024-08-23,DT007,OPPO Reno 11 Pro 5G,Điện thoại,Mai Thị Trang,Hà Nội,2,12794146,25588292,VNPay,Hoàn thành
+DH0437,2024-07-28,DT007,OPPO Reno 11 Pro 5G,Điện thoại,Lưu Thị Vân,Long An,3,11851596,35554788,Chuyển khoản,Đã hủy
+DH0438,2024-08-16,PK007,Hub USB-C 7-in-1 Ugreen,Phụ kiện,Lý Thị Ngọc,Bình Dương,2,852352,1704704,Thẻ tín dụng,Đã hủy
+DH0439,2024-02-19,TN003,Bose QuietComfort 45,Tai nghe,Lý Thị Ngọc,Đà Nẵng,1,7832409,7832409,VNPay,Hoàn thành
+DH0440,2024-11-01,LO002,Sony SRS-XB100,Loa,Đinh Văn Phúc,Hà Nội,3,1229332,3687996,Tiền mặt,Hoàn thành
+DH0441,2024-07-27,DT006,Xiaomi Redmi Note 13 Pro,Điện thoại,Cao Minh Sơn,Đồng Nai,1,7283454,7283454,Tiền mặt,Hoàn thành
+DH0442,2024-06-25,DT006,Xiaomi Redmi Note 13 Pro,Điện thoại,Lê Minh Châu,Đà Nẵng,1,7235207,7235207,Thẻ tín dụng,Hoàn thành
+DH0443,2024-12-04,PK004,Kính cường lực Baseus iPhone 15,Phụ kiện,Trịnh Văn Mạnh,Long An,2,269113,538226,Ví MoMo,Đã hủy
+DH0444,2024-04-17,TN003,Bose QuietComfort 45,Tai nghe,Kiều Thị Yến,Hồ Chí Minh,1,7417351,7417351,Thẻ tín dụng,Hoàn thành
+DH0445,2024-04-02,TN012,Nothing Ear (2),Tai nghe,Ngô Thị Lan,Hồ Chí Minh,3,2801517,8404551,VNPay,Hoàn thành
+DH0446,2024-02-09,DT008,Vivo V30 Pro,Điện thoại,Lê Minh Châu,Long An,2,10803999,21607998,Chuyển khoản,Hoàn thành
+DH0447,2024-09-09,LO005,Harman Kardon Onyx Studio 8,Loa,Lý Thị Ngọc,Bình Dương,1,8887187,8887187,Thẻ tín dụng,Đang xử lý
+DH0448,2024-06-10,TN008,Audio-Technica ATH-M50x,Tai nghe,Phạm Thị Dung,Bình Dương,1,3885382,3885382,Chuyển khoản,Đã hủy
+DH0449,2024-03-23,DT007,OPPO Reno 11 Pro 5G,Điện thoại,Vũ Thị Phương,Bình Dương,1,12539789,12539789,Tiền mặt,Hoàn thành
+DH0450,2024-08-28,DT010,OnePlus 12 5G,Điện thoại,Hà Thị Quỳnh,Hồ Chí Minh,1,19239024,19239024,Ví MoMo,Đang xử lý
+DH0451,2024-03-08,TB006,Lenovo Tab P12 Pro,Tablet,Trần Thị Bích,Hồ Chí Minh,3,13093495,39280485,Tiền mặt,Hoàn thành
+DH0452,2024-01-23,LO004,Marshall Emberton III,Loa,Trần Thị Bích,Hải Phòng,1,3181409,3181409,VNPay,Hoàn thành
+DH0453,2024-08-20,DT004,Samsung Galaxy A55 5G,Điện thoại,Hà Thị Quỳnh,Đà Nẵng,3,9952313,29856939,Ví MoMo,Đã hủy
+DH0454,2024-12-22,TB006,Lenovo Tab P12 Pro,Tablet,Cao Minh Sơn,Đà Nẵng,3,12602394,37807182,Thẻ tín dụng,Hoàn thành
+DH0455,2024-06-04,DT001,iPhone 15 Pro Max 256GB,Điện thoại,Đinh Văn Phúc,Long An,1,31754811,31754811,Tiền mặt,Đang xử lý
+DH0456,2024-02-13,PK005,Pin dự phòng Anker 20000mAh,Phụ kiện,Lý Thị Ngọc,Hải Phòng,1,1253017,1253017,Ví MoMo,Hoàn thành
+DH0457,2024-12-24,TB005,Xiaomi Pad 6 Pro,Tablet,Lý Thị Ngọc,Cần Thơ,2,10336367,20672734,Ví MoMo,Hoàn thành
+DH0458,2024-04-03,DT001,iPhone 15 Pro Max 256GB,Điện thoại,Lý Thị Ngọc,Hà Nội,2,32404985,64809970,Tiền mặt,Hoàn thành
+DH0459,2024-05-18,TN001,Sony WH-1000XM5 Wireless,Tai nghe,Đỗ Văn Khoa,Hồ Chí Minh,3,8433106,25299318,VNPay,Đã hủy
+DH0460,2024-05-26,PK003,Ốp lưng Spigen iPhone 15 Pro,Phụ kiện,Đinh Văn Phúc,Cần Thơ,2,380849,761698,Tiền mặt,Hoàn thành
+DH0461,2024-12-16,DT008,Vivo V30 Pro,Điện thoại,Hà Thị Quỳnh,Hà Nội,3,11237338,33712014,Tiền mặt,Hoàn thành
+DH0462,2024-09-17,LO002,Sony SRS-XB100,Loa,Lý Thị Ngọc,Đồng Nai,3,1254131,3762393,Thẻ tín dụng,Đã hủy
+DH0463,2024-03-16,LO006,JBL Flip 6,Loa,Lê Minh Châu,Đồng Nai,3,2317843,6953529,Thẻ tín dụng,Đã hủy
+DH0464,2024-02-06,TN010,Edifier W820NB Plus,Tai nghe,Lưu Thị Vân,Hồ Chí Minh,3,1913788,5741364,VNPay,Đang xử lý
+DH0465,2024-12-03,TN006,Sennheiser Momentum 4,Tai nghe,Nguyễn Văn An,Hải Phòng,3,9763887,29291661,Chuyển khoản,Hoàn thành
+DH0466,2024-02-11,TN008,Audio-Technica ATH-M50x,Tai nghe,Trịnh Văn Mạnh,Bình Dương,1,3874071,3874071,Thẻ tín dụng,Đang xử lý
+DH0467,2024-07-31,DT008,Vivo V30 Pro,Điện thoại,Lý Thị Ngọc,Hồ Chí Minh,2,11051297,22102594,VNPay,Đang xử lý
+DH0468,2024-09-14,DT002,iPhone 15 128GB,Điện thoại,Tô Văn Uy,Hải Phòng,2,22666224,45332448,VNPay,Đã hủy
+DH0469,2024-08-16,TN003,Bose QuietComfort 45,Tai nghe,Phạm Thị Dung,Bình Dương,2,7709893,15419786,Chuyển khoản,Hoàn thành
+DH0470,2024-06-21,DH005,Fitbit Charge 6,Đồng hồ thông minh,Tô Văn Uy,Hà Nội,2,3293811,6587622,Thẻ tín dụng,Đã hủy
+DH0471,2024-02-12,LO005,Harman Kardon Onyx Studio 8,Loa,Tô Văn Uy,Cần Thơ,2,8720687,17441374,Tiền mặt,Hoàn thành
+DH0472,2024-09-20,DT009,Google Pixel 8 Pro,Điện thoại,Hà Thị Quỳnh,Đồng Nai,2,25644589,51289178,Ví MoMo,Đang xử lý
+DH0473,2024-05-27,DT006,Xiaomi Redmi Note 13 Pro,Điện thoại,Lê Minh Châu,Hải Phòng,2,7105605,14211210,Ví MoMo,Hoàn thành
+DH0474,2024-07-11,DT010,OnePlus 12 5G,Điện thoại,Phạm Thị Dung,Hải Phòng,3,19201730,57605190,Chuyển khoản,Hoàn thành
+DH0475,2024-09-20,PK004,Kính cường lực Baseus iPhone 15,Phụ kiện,Trần Thị Bích,Đồng Nai,2,286863,573726,Chuyển khoản,Hoàn thành
+DH0476,2024-03-16,DT010,OnePlus 12 5G,Điện thoại,Tô Văn Uy,Hà Nội,3,18998463,56995389,Tiền mặt,Hoàn thành
+DH0477,2024-12-20,LO001,JBL Charge 5 Bluetooth,Loa,Đỗ Văn Khoa,Cần Thơ,3,3664381,10993143,Thẻ tín dụng,Đã hủy
+DH0478,2024-07-24,TB003,Samsung Galaxy Tab S9+,Tablet,Cao Minh Sơn,Long An,1,22777453,22777453,Chuyển khoản,Đã hủy
+DH0479,2024-09-17,TB004,Samsung Galaxy Tab A9+,Tablet,Bùi Thị Hoa,Đồng Nai,2,7802363,15604726,Thẻ tín dụng,Hoàn thành
+DH0480,2024-06-30,LO007,Sonos Era 100,Loa,Vũ Thị Phương,Đà Nẵng,2,7877663,15755326,Tiền mặt,Đã hủy
+DH0481,2024-05-25,PK002,Cáp USB-C Belkin 2m,Phụ kiện,Mai Thị Trang,Hải Phòng,3,447442,1342326,Ví MoMo,Hoàn thành
+DH0482,2024-08-10,PK004,Kính cường lực Baseus iPhone 15,Phụ kiện,Mai Thị Trang,Hà Nội,3,265899,797697,Thẻ tín dụng,Hoàn thành
+DH0483,2024-09-05,TB006,Lenovo Tab P12 Pro,Tablet,Hoàng Văn Em,Đồng Nai,1,13687432,13687432,Chuyển khoản,Hoàn thành
+DH0484,2024-06-12,LO003,Bose SoundLink Max,Loa,Lê Minh Châu,Bình Dương,1,9226868,9226868,Ví MoMo,Đã hủy
+DH0485,2024-11-18,TN004,Samsung Galaxy Buds2 Pro,Tai nghe,Phạm Thị Dung,Cần Thơ,2,4332319,8664638,Ví MoMo,Hoàn thành
+DH0486,2024-05-20,PK005,Pin dự phòng Anker 20000mAh,Phụ kiện,Phan Minh Xuân,Bình Dương,1,1285851,1285851,Chuyển khoản,Đã hủy
+DH0487,2024-08-08,DT008,Vivo V30 Pro,Điện thoại,Nguyễn Văn An,Hồ Chí Minh,3,10807291,32421873,Thẻ tín dụng,Đã hủy
+DH0488,2024-08-26,LO009,Edifier R1280T Active,Loa,Lý Thị Ngọc,Hà Nội,3,2060313,6180939,Chuyển khoản,Hoàn thành
+DH0489,2024-06-23,TN009,Anker Soundcore Life Q45,Tai nghe,Nguyễn Văn An,Cần Thơ,1,1437933,1437933,Ví MoMo,Hoàn thành
+DH0490,2024-05-03,DT006,Xiaomi Redmi Note 13 Pro,Điện thoại,Cao Minh Sơn,Long An,2,7305229,14610458,Thẻ tín dụng,Hoàn thành
+DH0491,2024-05-02,PK002,Cáp USB-C Belkin 2m,Phụ kiện,Ngô Thị Lan,Đồng Nai,3,445145,1335435,Ví MoMo,Đã hủy
+DH0492,2024-10-04,TB004,Samsung Galaxy Tab A9+,Tablet,Ngô Thị Lan,Hải Phòng,2,7759540,15519080,Chuyển khoản,Hoàn thành
+DH0493,2024-06-11,TN012,Nothing Ear (2),Tai nghe,Nguyễn Văn An,Cần Thơ,2,2945350,5890700,VNPay,Đã hủy
+DH0494,2024-03-30,TN010,Edifier W820NB Plus,Tai nghe,Ngô Thị Lan,Đà Nẵng,1,1802049,1802049,Tiền mặt,Hoàn thành
+DH0495,2024-05-25,TB004,Samsung Galaxy Tab A9+,Tablet,Phan Minh Xuân,Hồ Chí Minh,1,8334103,8334103,Thẻ tín dụng,Hoàn thành
+DH0496,2024-07-07,DT004,Samsung Galaxy A55 5G,Điện thoại,Tô Văn Uy,Hà Nội,2,10392587,20785174,Tiền mặt,Hoàn thành
+DH0497,2024-12-04,PK002,Cáp USB-C Belkin 2m,Phụ kiện,Đặng Minh Quân,Hà Nội,3,462745,1388235,Thẻ tín dụng,Hoàn thành
+DH0498,2024-06-26,DT005,Xiaomi 14 Pro,Điện thoại,Trịnh Văn Mạnh,Bình Dương,2,18102148,36204296,Ví MoMo,Hoàn thành
+DH0499,2024-02-20,TN001,Sony WH-1000XM5 Wireless,Tai nghe,Cao Minh Sơn,Hồ Chí Minh,2,8282308,16564616,Ví MoMo,Đang xử lý
+DH0500,2024-08-17,TN011,Sony WF-1000XM5 TWS,Tai nghe,Mai Thị Trang,Hải Phòng,1,6924790,6924790,Ví MoMo,Hoàn thành
+DH0501,2024-07-18,LO007,Sonos Era 100,Loa,Cao Minh Sơn,Long An,2,7354399,14708798,VNPay,Đã hủy
+DH0502,2024-09-05,LO003,Bose SoundLink Max,Loa,Đinh Văn Phúc,Long An,3,8813207,26439621,Thẻ tín dụng,Đã hủy
+DH0503,2024-11-29,LO005,Harman Kardon Onyx Studio 8,Loa,Trịnh Văn Mạnh,Đồng Nai,2,8413054,16826108,Ví MoMo,Đang xử lý
+DH0504,2024-05-20,LO005,Harman Kardon Onyx Studio 8,Loa,Phan Minh Xuân,Hồ Chí Minh,2,8221261,16442522,Chuyển khoản,Đã hủy
+DH0505,2024-08-18,LO010,Bose TV Speaker,Loa,Lê Minh Châu,Hà Nội,2,5416865,10833730,Ví MoMo,Hoàn thành
+DH0506,2024-02-21,TN005,JBL Tune 770NC,Tai nghe,Hoàng Văn Em,Bình Dương,2,2188392,4376784,Tiền mặt,Hoàn thành
+DH0507,2024-01-13,TN006,Sennheiser Momentum 4,Tai nghe,Ngô Thị Lan,Đà Nẵng,3,9666208,28998624,Ví MoMo,Đang xử lý
+DH0508,2024-10-13,LO008,Xiaomi Smart Speaker,Loa,Phạm Thị Dung,Long An,2,915673,1831346,Ví MoMo,Hoàn thành
+DH0509,2024-12-22,TB002,iPad Air M2 128GB,Tablet,Nguyễn Văn An,Hải Phòng,1,16025923,16025923,Thẻ tín dụng,Hoàn thành
+DH0510,2024-05-28,TN004,Samsung Galaxy Buds2 Pro,Tai nghe,Lý Thị Ngọc,Cần Thơ,3,4094105,12282315,Chuyển khoản,Hoàn thành
+DH0511,2024-04-16,LO001,JBL Charge 5 Bluetooth,Loa,Đinh Văn Phúc,Cần Thơ,3,3736133,11208399,Tiền mặt,Đã hủy
+DH0512,2024-10-14,LO009,Edifier R1280T Active,Loa,Lý Thị Ngọc,Hải Phòng,3,2063014,6189042,VNPay,Hoàn thành
+DH0513,2024-06-23,TN003,Bose QuietComfort 45,Tai nghe,Trần Thị Bích,Long An,3,7845329,23535987,Tiền mặt,Hoàn thành
+DH0514,2024-10-28,TN012,Nothing Ear (2),Tai nghe,Phan Minh Xuân,Cần Thơ,1,2941085,2941085,Tiền mặt,Đã hủy
+DH0515,2024-04-20,TN002,Apple AirPods Pro 2nd Gen,Tai nghe,Lý Thị Ngọc,Long An,2,6042032,12084064,Tiền mặt,Hoàn thành
+DH0516,2024-04-02,TN009,Anker Soundcore Life Q45,Tai nghe,Mai Thị Trang,Đồng Nai,2,1372643,2745286,Tiền mặt,Hoàn thành
+DH0517,2024-01-30,LO004,Marshall Emberton III,Loa,Hoàng Văn Em,Hải Phòng,2,3395295,6790590,VNPay,Hoàn thành
+DH0518,2024-06-02,TN011,Sony WF-1000XM5 TWS,Tai nghe,Lê Minh Châu,Hà Nội,1,6509380,6509380,Chuyển khoản,Hoàn thành
+DH0519,2024-09-04,TN008,Audio-Technica ATH-M50x,Tai nghe,Lê Minh Châu,Bình Dương,2,3932228,7864456,Chuyển khoản,Đang xử lý
+DH0520,2024-12-09,DH004,Xiaomi Watch S3,Đồng hồ thông minh,Lý Thị Ngọc,Long An,2,2754892,5509784,Tiền mặt,Hoàn thành
+DH0521,2024-04-16,TN012,Nothing Ear (2),Tai nghe,Đinh Văn Phúc,Hải Phòng,2,2977631,5955262,Thẻ tín dụng,Đang xử lý
+DH0522,2024-10-31,DH005,Fitbit Charge 6,Đồng hồ thông minh,Hoàng Văn Em,Cần Thơ,1,3183626,3183626,Chuyển khoản,Hoàn thành
+DH0523,2024-07-10,LO001,JBL Charge 5 Bluetooth,Loa,Hoàng Văn Em,Bình Dương,3,3978640,11935920,Ví MoMo,Đang xử lý
+DH0524,2024-11-11,PK007,Hub USB-C 7-in-1 Ugreen,Phụ kiện,Mai Thị Trang,Hải Phòng,2,864834,1729668,Tiền mặt,Đã hủy
+DH0525,2024-03-14,LO009,Edifier R1280T Active,Loa,Trịnh Văn Mạnh,Cần Thơ,3,2073857,6221571,VNPay,Đã hủy
+DH0526,2024-12-09,DH002,Samsung Galaxy Watch 6 Classic,Đồng hồ thông minh,Trịnh Văn Mạnh,Hà Nội,1,8750191,8750191,Tiền mặt,Hoàn thành
+DH0527,2024-01-08,DT008,Vivo V30 Pro,Điện thoại,Phạm Thị Dung,Hà Nội,3,11487074,34461222,Tiền mặt,Hoàn thành
+DH0528,2024-10-12,LO006,JBL Flip 6,Loa,Đinh Văn Phúc,Đà Nẵng,2,2343373,4686746,VNPay,Đã hủy
+DH0529,2024-09-08,TN010,Edifier W820NB Plus,Tai nghe,Kiều Thị Yến,Bình Dương,2,1796524,3593048,Chuyển khoản,Đang xử lý
+DH0530,2024-03-17,TN009,Anker Soundcore Life Q45,Tai nghe,Kiều Thị Yến,Bình Dương,2,1357513,2715026,VNPay,Hoàn thành
+DH0531,2024-02-22,DH004,Xiaomi Watch S3,Đồng hồ thông minh,Hà Thị Quỳnh,Đồng Nai,3,2702114,8106342,VNPay,Hoàn thành
+DH0532,2024-07-02,DT006,Xiaomi Redmi Note 13 Pro,Điện thoại,Lê Minh Châu,Long An,2,7007865,14015730,Thẻ tín dụng,Hoàn thành
+DH0533,2024-11-18,PK005,Pin dự phòng Anker 20000mAh,Phụ kiện,Mai Thị Trang,Đà Nẵng,2,1212594,2425188,VNPay,Hoàn thành
+DH0534,2024-06-24,TN004,Samsung Galaxy Buds2 Pro,Tai nghe,Vũ Thị Phương,Bình Dương,2,4205447,8410894,Ví MoMo,Hoàn thành
+DH0535,2024-01-29,PK007,Hub USB-C 7-in-1 Ugreen,Phụ kiện,Tô Văn Uy,Hà Nội,3,885394,2656182,VNPay,Đã hủy
+DH0536,2024-08-12,DT004,Samsung Galaxy A55 5G,Điện thoại,Trần Thị Bích,Đồng Nai,2,10122141,20244282,Thẻ tín dụng,Hoàn thành
+DH0537,2024-04-20,TN004,Samsung Galaxy Buds2 Pro,Tai nghe,Đinh Văn Phúc,Cần Thơ,2,4297912,8595824,Ví MoMo,Hoàn thành
+DH0538,2024-06-27,TB006,Lenovo Tab P12 Pro,Tablet,Đỗ Văn Khoa,Bình Dương,2,13785082,27570164,VNPay,Đã hủy
+DH0539,2024-12-13,TN012,Nothing Ear (2),Tai nghe,Lý Thị Ngọc,Đồng Nai,2,2854542,5709084,Ví MoMo,Đang xử lý
+DH0540,2024-08-08,TN004,Samsung Galaxy Buds2 Pro,Tai nghe,Lưu Thị Vân,Long An,1,4223400,4223400,Ví MoMo,Đang xử lý
+DH0541,2024-07-30,DT007,OPPO Reno 11 Pro 5G,Điện thoại,Ngô Thị Lan,Hải Phòng,3,12266388,36799164,Thẻ tín dụng,Hoàn thành
+DH0542,2024-03-22,TN010,Edifier W820NB Plus,Tai nghe,Phạm Thị Dung,Bình Dương,2,1852234,3704468,Thẻ tín dụng,Hoàn thành
+DH0543,2024-07-18,TB002,iPad Air M2 128GB,Tablet,Nguyễn Văn An,Đà Nẵng,1,16134542,16134542,Thẻ tín dụng,Hoàn thành
+DH0544,2024-07-25,LO004,Marshall Emberton III,Loa,Mai Thị Trang,Đà Nẵng,3,3409644,10228932,Ví MoMo,Hoàn thành
+DH0545,2024-06-04,DH001,Apple Watch Series 9 GPS 41mm,Đồng hồ thông minh,Vũ Thị Phương,Long An,1,10338244,10338244,Chuyển khoản,Hoàn thành
+DH0546,2024-10-28,TB005,Xiaomi Pad 6 Pro,Tablet,Hà Thị Quỳnh,Cần Thơ,1,10526445,10526445,VNPay,Hoàn thành
+DH0547,2024-12-28,TB002,iPad Air M2 128GB,Tablet,Hoàng Văn Em,Đà Nẵng,3,16315585,48946755,Thẻ tín dụng,Đang xử lý
+DH0548,2024-09-28,DH001,Apple Watch Series 9 GPS 41mm,Đồng hồ thông minh,Cao Minh Sơn,Long An,3,10371885,31115655,Chuyển khoản,Hoàn thành
+DH0549,2024-05-30,DH003,Garmin Venu 3,Đồng hồ thông minh,Lê Minh Châu,Hồ Chí Minh,1,10821972,10821972,Ví MoMo,Đang xử lý
+DH0550,2024-04-04,TN008,Audio-Technica ATH-M50x,Tai nghe,Mai Thị Trang,Long An,3,3784125,11352375,Ví MoMo,Hoàn thành
+DH0551,2024-09-30,DT004,Samsung Galaxy A55 5G,Điện thoại,Hoàng Văn Em,Hải Phòng,2,10028856,20057712,VNPay,Hoàn thành
+DH0552,2024-03-27,TB006,Lenovo Tab P12 Pro,Tablet,Lý Thị Ngọc,Bình Dương,1,13065821,13065821,Ví MoMo,Đang xử lý
+DH0553,2024-06-17,DT009,Google Pixel 8 Pro,Điện thoại,Lê Minh Châu,Cần Thơ,3,27660422,82981266,Thẻ tín dụng,Hoàn thành
+DH0554,2024-03-28,PK003,Ốp lưng Spigen iPhone 15 Pro,Phụ kiện,Kiều Thị Yến,Đồng Nai,3,351821,1055463,Tiền mặt,Hoàn thành
+DH0555,2024-12-28,DH003,Garmin Venu 3,Đồng hồ thông minh,Trịnh Văn Mạnh,Long An,1,10943187,10943187,Chuyển khoản,Hoàn thành
+DH0556,2024-12-25,TB005,Xiaomi Pad 6 Pro,Tablet,Phan Minh Xuân,Cần Thơ,3,10678428,32035284,Thẻ tín dụng,Đang xử lý
+DH0557,2024-12-28,DH002,Samsung Galaxy Watch 6 Classic,Đồng hồ thông minh,Đinh Văn Phúc,Hà Nội,2,8734692,17469384,Ví MoMo,Hoàn thành
+DH0558,2024-10-15,PK007,Hub USB-C 7-in-1 Ugreen,Phụ kiện,Lê Minh Châu,Đồng Nai,1,887225,887225,VNPay,Đang xử lý
+DH0559,2024-10-12,DH002,Samsung Galaxy Watch 6 Classic,Đồng hồ thông minh,Hà Thị Quỳnh,Hải Phòng,3,8815579,26446737,Thẻ tín dụng,Hoàn thành
+DH0560,2024-11-11,TN007,Jabra Evolve2 75,Tai nghe,Lý Thị Ngọc,Long An,1,11524754,11524754,Tiền mặt,Hoàn thành
+DH0561,2024-07-24,DT003,Samsung Galaxy S24 Ultra,Điện thoại,Trịnh Văn Mạnh,Long An,3,30425862,91277586,Ví MoMo,Hoàn thành
+DH0562,2024-08-05,DT002,iPhone 15 128GB,Điện thoại,Lê Minh Châu,Đồng Nai,3,22076710,66230130,VNPay,Hoàn thành
+DH0563,2024-06-07,TN004,Samsung Galaxy Buds2 Pro,Tai nghe,Đinh Văn Phúc,Đà Nẵng,3,4275753,12827259,Tiền mặt,Đã hủy
+DH0564,2024-03-20,DH002,Samsung Galaxy Watch 6 Classic,Đồng hồ thông minh,Phan Minh Xuân,Đồng Nai,1,8560058,8560058,Thẻ tín dụng,Hoàn thành
+DH0565,2024-04-05,DT001,iPhone 15 Pro Max 256GB,Điện thoại,Lê Minh Châu,Bình Dương,1,34320066,34320066,Ví MoMo,Hoàn thành
+DH0566,2024-12-09,TB005,Xiaomi Pad 6 Pro,Tablet,Lý Thị Ngọc,Đà Nẵng,3,10708332,32124996,Ví MoMo,Đang xử lý
+DH0567,2024-08-10,TN010,Edifier W820NB Plus,Tai nghe,Mai Thị Trang,Hà Nội,1,1973727,1973727,Tiền mặt,Hoàn thành
+DH0568,2024-03-01,DH002,Samsung Galaxy Watch 6 Classic,Đồng hồ thông minh,Lý Thị Ngọc,Hồ Chí Minh,2,8698784,17397568,Ví MoMo,Đang xử lý
+DH0569,2024-02-19,PK001,Sạc nhanh Anker 65W GaN,Phụ kiện,Nguyễn Văn An,Hải Phòng,2,869859,1739718,Thẻ tín dụng,Đang xử lý
+DH0570,2024-04-14,DT010,OnePlus 12 5G,Điện thoại,Cao Minh Sơn,Long An,2,18685295,37370590,Ví MoMo,Hoàn thành
+DH0571,2024-11-21,TB003,Samsung Galaxy Tab S9+,Tablet,Đinh Văn Phúc,Đồng Nai,2,22056771,44113542,Chuyển khoản,Hoàn thành
+DH0572,2024-12-10,DH001,Apple Watch Series 9 GPS 41mm,Đồng hồ thông minh,Kiều Thị Yến,Hải Phòng,3,10511651,31534953,Thẻ tín dụng,Hoàn thành
+DH0573,2024-02-06,DT005,Xiaomi 14 Pro,Điện thoại,Hà Thị Quỳnh,Đồng Nai,1,18176234,18176234,VNPay,Đang xử lý
+DH0574,2024-10-09,PK006,Giá đỡ điện thoại Ugreen,Phụ kiện,Hà Thị Quỳnh,Cần Thơ,3,262598,787794,Thẻ tín dụng,Đã hủy
+DH0575,2024-06-05,DH001,Apple Watch Series 9 GPS 41mm,Đồng hồ thông minh,Phạm Thị Dung,Long An,1,10299902,10299902,Ví MoMo,Đã hủy
+DH0576,2024-08-03,TB001,iPad Pro M4 11 inch 256GB,Tablet,Kiều Thị Yến,Bình Dương,3,27989986,83969958,Tiền mặt,Hoàn thành
+DH0577,2024-05-21,PK008,Bao da iPad Pro ESR,Phụ kiện,Kiều Thị Yến,Hà Nội,2,545679,1091358,VNPay,Hoàn thành
+DH0578,2024-12-17,LO005,Harman Kardon Onyx Studio 8,Loa,Phan Minh Xuân,Hải Phòng,3,8833351,26500053,VNPay,Hoàn thành
+DH0579,2024-02-16,TN012,Nothing Ear (2),Tai nghe,Hoàng Văn Em,Bình Dương,3,2982947,8948841,Ví MoMo,Đang xử lý
+DH0580,2024-01-25,LO007,Sonos Era 100,Loa,Ngô Thị Lan,Hà Nội,3,7962345,23887035,Thẻ tín dụng,Hoàn thành
+DH0581,2024-04-22,PK004,Kính cường lực Baseus iPhone 15,Phụ kiện,Lê Minh Châu,Hải Phòng,2,283429,566858,Chuyển khoản,Đang xử lý
+DH0582,2024-01-16,DT010,OnePlus 12 5G,Điện thoại,Kiều Thị Yến,Hải Phòng,1,19263891,19263891,Tiền mặt,Đang xử lý
+DH0583,2024-08-19,LO002,Sony SRS-XB100,Loa,Đinh Văn Phúc,Bình Dương,1,1178201,1178201,VNPay,Đã hủy
+DH0584,2024-05-15,DH003,Garmin Venu 3,Đồng hồ thông minh,Đặng Minh Quân,Hồ Chí Minh,2,10793571,21587142,Ví MoMo,Đang xử lý
+DH0585,2024-03-24,PK008,Bao da iPad Pro ESR,Phụ kiện,Nguyễn Văn An,Bình Dương,3,575929,1727787,VNPay,Đã hủy
+DH0586,2024-10-09,PK005,Pin dự phòng Anker 20000mAh,Phụ kiện,Bùi Thị Hoa,Đồng Nai,2,1262874,2525748,Ví MoMo,Hoàn thành
+DH0587,2024-10-09,DT001,iPhone 15 Pro Max 256GB,Điện thoại,Lưu Thị Vân,Hải Phòng,2,31941031,63882062,Chuyển khoản,Hoàn thành
+DH0588,2024-11-12,LO002,Sony SRS-XB100,Loa,Kiều Thị Yến,Hải Phòng,3,1173206,3519618,Chuyển khoản,Hoàn thành
+DH0589,2024-07-29,TN011,Sony WF-1000XM5 TWS,Tai nghe,Bùi Thị Hoa,Bình Dương,1,6857241,6857241,Ví MoMo,Hoàn thành
+DH0590,2024-07-21,LO002,Sony SRS-XB100,Loa,Tô Văn Uy,Long An,3,1280812,3842436,Chuyển khoản,Hoàn thành
+DH0591,2024-08-06,TB002,iPad Air M2 128GB,Tablet,Phạm Thị Dung,Hồ Chí Minh,1,16403787,16403787,Ví MoMo,Hoàn thành
+DH0592,2024-04-27,DT006,Xiaomi Redmi Note 13 Pro,Điện thoại,Đặng Minh Quân,Cần Thơ,3,6770805,20312415,Thẻ tín dụng,Hoàn thành
+DH0593,2024-12-08,DT010,OnePlus 12 5G,Điện thoại,Trần Thị Bích,Hà Nội,3,18148876,54446628,Ví MoMo,Đang xử lý
+DH0594,2024-09-21,LO005,Harman Kardon Onyx Studio 8,Loa,Mai Thị Trang,Long An,3,8961377,26884131,Ví MoMo,Hoàn thành
+DH0595,2024-03-25,DT001,iPhone 15 Pro Max 256GB,Điện thoại,Trần Thị Bích,Đồng Nai,2,31584301,63168602,Tiền mặt,Đã hủy
+DH0596,2024-11-25,TN006,Sennheiser Momentum 4,Tai nghe,Nguyễn Văn An,Long An,2,9352433,18704866,Chuyển khoản,Đang xử lý
+DH0597,2024-07-27,DT008,Vivo V30 Pro,Điện thoại,Mai Thị Trang,Hà Nội,1,10672985,10672985,VNPay,Đã hủy
+DH0598,2024-03-18,LO007,Sonos Era 100,Loa,Kiều Thị Yến,Hà Nội,1,7247653,7247653,VNPay,Hoàn thành
+DH0599,2024-08-07,LO008,Xiaomi Smart Speaker,Loa,Hoàng Văn Em,Hồ Chí Minh,3,951092,2853276,Tiền mặt,Đang xử lý
+DH0600,2024-06-27,TB001,iPad Pro M4 11 inch 256GB,Tablet,Mai Thị Trang,Đà Nẵng,2,27468100,54936200,Thẻ tín dụng,Hoàn thành
