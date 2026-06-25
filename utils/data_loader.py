@@ -34,4 +34,4 @@ def reload_products():
 
 
 def save_products(df: pd.DataFrame):
-    df.to_csv(PRODUCTS_PATH, index=False, encoding="utf-8-sig")
+    df.to_csv(PRODUCTS_PATH, index=False, encoding="utf-8")

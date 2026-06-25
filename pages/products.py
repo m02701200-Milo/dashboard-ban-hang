@@ -52,7 +52,7 @@ def _tab_danh_sach(sp_df):
 
 def _tab_them_moi(sp_df):
     st.subheader("➕ Thêm sản phẩm mới")
-    with st.form("form_them"):
+    with st.form("form_them", clear_on_submit=True):
         col1, col2 = st.columns(2)
         with col1:
             ma_moi       = st.text_input("Mã hàng *", placeholder="VD: DT011")
